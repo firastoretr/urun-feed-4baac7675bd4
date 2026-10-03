@@ -1420,7 +1420,7 @@ Kıyafetinizin altında sessizce parlayan bu parça, kendine güvenen kadınlar 
     <barcode>6524937998925</barcode>
     <eklenme_tarihi>2021-11-23 10:42:00</eklenme_tarihi>
     <siralam_tarihi>2026-09-09 14:51:37</siralam_tarihi>
-    <miktar>84</miktar>
+    <miktar>85</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -7058,7 +7058,7 @@ Utterly Good imzalı bu küpe, günlük kullanıma uygun sade tasarımıyla hem 
     <barcode>9910354512818</barcode>
     <eklenme_tarihi>2023-11-25 09:11:38</eklenme_tarihi>
     <siralam_tarihi>2026-09-09 14:51:06</siralam_tarihi>
-    <miktar>24</miktar>
+    <miktar>25</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -27745,7 +27745,7 @@ Utterly Good imzalı bu kolye, boyunda hafif ve şık bir dokunuş arayanlar iç
     <barcode>5506657003517</barcode>
     <eklenme_tarihi>2024-08-22 14:57:35</eklenme_tarihi>
     <siralam_tarihi>2026-06-09 11:28:13</siralam_tarihi>
-    <miktar>46</miktar>
+    <miktar>45</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -30134,7 +30134,7 @@ Günlük kullanımdan özel davetlere kadar her ana yakışan bu kolye, hem kend
     <barcode>2949903683324</barcode>
     <eklenme_tarihi>2024-09-05 13:38:18</eklenme_tarihi>
     <siralam_tarihi>2026-09-09 14:51:24</siralam_tarihi>
-    <miktar>190</miktar>
+    <miktar>189</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -34778,58 +34778,6 @@ Utterly Good imzalı bu tasarım, hem iş hem de günlük şıklığınızı tam
 Ürün Bilgileri:
 - Malzeme: 316L paslanmaz çelik</aciklama>
   <satis_fiyati>439.9</satis_fiyati></Urun>
-  <Urun>
-    <adi>Utterly Good Gold Renk Zirkon Taşlı İncili Halka Model Kadın Küpe</adi>
-    <stok_kodu>BKP9620</stok_kodu>
-    <product_id />
-    <id>671bbf6191dc09fa890d5406</id>
-    <barcode>1590478970244</barcode>
-    <eklenme_tarihi>2024-10-25 17:55:13</eklenme_tarihi>
-    <siralam_tarihi>2024-10-25 17:55:13</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Küpe</kategori>
-    <AnaKategori>Kadın|Küpe|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1729937778_BKP9620.jpg</resim1>
-    </resim>
-    <fiyat>
-      <son_kullanici>169.9</son_kullanici>
-      <bayi_fiyati>59.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Utterly Good</marka>
-    <filtreler>
-      <filtre>
-        <name>Taş Cinsi</name>
-        <value>Zirkon Taş</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Pirinç</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Altın</value>
-      </filtre>
-      <filtre>
-        <name>Beden</name>
-        <value>Standart</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Pirinç</value>
-      </filtre>
-    </filtreler>
-    <aciklama>Zarafeti günlük şıklıkla buluşturan Pirinç Gold Renk Zirkon Taşlı Su Yolu İncili Halka Model Kadın Küpe, ince işçiliğiyle dikkat çekiyor. Pirinç materyalin altın tonundaki parlaklığı, su yolu düzeninde sıralanan zirkon taşlar ve narin inci detaylarıyla birleşiyor. Halka tasarımı hem günlük kombinlerde hem özel davetlerde rahatlıkla kullanılabiliyor. Utterly Good imzalı bu küpe, standart beden yapısıyla her tarza kolayca uyum sağlıyor.
-
-Ürün Bilgileri:
-- Malzeme: Pirinç</aciklama>
-  <satis_fiyati>419.9</satis_fiyati></Urun>
   <Urun>
     <adi>Utterly Good 316L Çelik Gold Renk Zirkon Taşlı Göz Model Kadın Kolye</adi>
     <stok_kodu>BKO9404</stok_kodu>
@@ -65270,7 +65218,7 @@ Günlük kullanıma uygun standart bedeniyle rahatlıkla tercih edebileceğiniz 
     <barcode>4131174424241</barcode>
     <eklenme_tarihi>2025-05-12 11:39:42</eklenme_tarihi>
     <siralam_tarihi>2025-12-04 15:06:06</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>13</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -76693,7 +76641,7 @@ Uğur böceği figürüyle şansı ve pozitifliği simgeleyen bu model, günlük
     <barcode>6002184284553</barcode>
     <eklenme_tarihi>2025-07-08 10:19:27</eklenme_tarihi>
     <siralam_tarihi>2026-06-15 13:34:08</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>23</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -83360,7 +83308,7 @@ Utterly Good imzalı bu şahmeran modeli, günlük kullanıma uygun yapısıyla 
     <barcode>6365290772032</barcode>
     <eklenme_tarihi>2025-08-22 13:43:40</eklenme_tarihi>
     <siralam_tarihi>2026-06-15 13:34:09</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>31</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -87780,7 +87728,7 @@ Utterly Good imzalı bu tasarım, standart bedeniyle herkese uygun bir seçenek 
     <barcode>6174361030540</barcode>
     <eklenme_tarihi>2025-09-16 13:13:02</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:32:43</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>2</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -94536,7 +94484,7 @@ Günlük şıklıktan spor tarza, klasik zarafetten abiye gösterişe uzanan bu 
     <barcode>7279521481268</barcode>
     <eklenme_tarihi>2025-10-22 12:19:08</eklenme_tarihi>
     <siralam_tarihi>2025-10-22 12:19:08</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>7</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -135219,7 +135167,7 @@ Klasik ve abiye görünümlerde de iddiasını koruyan bu kolye, standart beden 
     <barcode>6506409571379</barcode>
     <eklenme_tarihi>2026-04-08 10:49:44</eklenme_tarihi>
     <siralam_tarihi>2026-07-08 12:51:21</siralam_tarihi>
-    <miktar>78</miktar>
+    <miktar>77</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -156215,7 +156163,7 @@ Utterly Good imzalı bu şahmeran tasarımı, spor bir kombinden klasik bir gör
     <barcode>0568259384307</barcode>
     <eklenme_tarihi>2026-06-15 14:59:43</eklenme_tarihi>
     <siralam_tarihi>2026-06-15 14:59:43</siralam_tarihi>
-    <miktar>0</miktar>
+    <miktar>1</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -156247,7 +156195,7 @@ Kendine güvenen, tarzını yansıtmaktan çekinmeyen kadınlar için tasarlanan
     <barcode>2405631107254</barcode>
     <eklenme_tarihi>2026-06-15 14:59:54</eklenme_tarihi>
     <siralam_tarihi>2026-06-15 14:59:54</siralam_tarihi>
-    <miktar>0</miktar>
+    <miktar>1</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -156303,7 +156251,7 @@ Kendine güvenen, tarzını yansıtmaktan çekinmeyen kadınlar için tasarlanan
     <barcode>3020661045629</barcode>
     <eklenme_tarihi>2026-06-15 15:00:02</eklenme_tarihi>
     <siralam_tarihi>2026-06-15 15:00:02</siralam_tarihi>
-    <miktar>0</miktar>
+    <miktar>1</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -156361,7 +156309,7 @@ Klasik çizgisiyle zamansız bir seçim olan bu model, spor stilinizi tamamlarke
     <barcode>9495842774782</barcode>
     <eklenme_tarihi>2026-06-15 15:00:13</eklenme_tarihi>
     <siralam_tarihi>2026-06-15 15:00:13</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>8</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -156391,7 +156339,7 @@ Kolunuzda zarif bir akış yaratan bu tasarım, hem tek başına hem de diğer b
     <barcode>2743007331798</barcode>
     <eklenme_tarihi>2026-06-15 15:00:17</eklenme_tarihi>
     <siralam_tarihi>2026-06-15 15:00:17</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>16</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
