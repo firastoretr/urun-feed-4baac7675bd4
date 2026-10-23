@@ -751,7 +751,7 @@ Utterly Good imzalı bu bileklik, minimal tasarımı sayesinde tek başına ya d
     <barcode>3568438735453</barcode>
     <eklenme_tarihi>2021-04-15 11:47:48</eklenme_tarihi>
     <siralam_tarihi>2025-02-12 14:32:41</siralam_tarihi>
-    <miktar>24</miktar>
+    <miktar>21</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -782,7 +782,7 @@ Tek başına şıklığıyla dikkat çektiği gibi, diğer bileklikler ile katla
     <barcode>0801324941440</barcode>
     <eklenme_tarihi>2021-04-22 10:21:51</eklenme_tarihi>
     <siralam_tarihi>2026-02-24 09:19:21</siralam_tarihi>
-    <miktar>56</miktar>
+    <miktar>53</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -857,48 +857,6 @@ Tek başına şıklığıyla dikkat çektiği gibi, diğer bileklikler ile katla
     </filtreler>
     <aciklama>Burgu detayıyla dikkat çeken Burgu Model Gümüş Metal Küpe Seti, sade ama iddiasız kalmayan tasarımıyla günlük kombinlerinizin vazgeçilmezi olmaya aday. Gümüş tonu metal yapısı sayesinde hem klasik hem modern görünümlere kolayca uyum sağlar. Utterly Good imzalı bu set, sabah işe giderken de arkadaş buluşmalarında da tarzınızı tamamlar; kulaklarınıza zarif bir hareket katarak fark edilmenizi sağlar.</aciklama>
   <satis_fiyati>369.9</satis_fiyati></Urun>
-  <Urun>
-    <adi>Utterly Good Erkek Yüzük Boynuz Tasarım Ayarlanabilir Antik Gümüş Pirinç</adi>
-    <stok_kodu>EY374</stok_kodu>
-    <product_id />
-    <id>615ead8aa700ef07673fb3f2</id>
-    <barcode>8484247456691</barcode>
-    <eklenme_tarihi>2021-10-07 10:19:22</eklenme_tarihi>
-    <siralam_tarihi>2021-10-18 10:45:49</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Erkek Yüzük</kategori>
-    <AnaKategori>Erkek|Erkek Yüzük|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1633595180_EY374-1.jpg</resim1>
-      <resim2>https://app.ebijuteri.com/storage/files/uploads/pimg/1633595180_EY374-2.jpg</resim2>
-    </resim>
-    <fiyat>
-      <son_kullanici>129.9</son_kullanici>
-      <bayi_fiyati>34.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Utterly Good</marka>
-    <filtreler>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Pirinç</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Antik Gümüş</value>
-      </filtre>
-    </filtreler>
-    <aciklama>Karakteristik boynuz tasarımıyla dikkat çeken bu erkek yüzük, Utterly Good imzasıyla günlük kombinlerinize güçlü bir dokunuş katıyor. Antik gümüş rengi ve pirinç materyali sayesinde hem sade hem iddialı bir görünüm sunuyor. Ayarlanabilir yapısı farklı parmak ölçülerine rahatlıkla uyum sağlıyor, böylece her gün özgüvenle takabileceğiniz pratik bir aksesuar elde ediyorsunuz.
-
-Ürün Bilgileri:
-- Beden: Ayarlanabilir
-- Malzeme: Pirinç</aciklama>
-  <satis_fiyati>379.9</satis_fiyati></Urun>
   <Urun>
     <adi>Utterly Good Gold Renk Kanat Yüzük Zirkon Taşlı Ayarlanabilir Metal Tasarım</adi>
     <stok_kodu>BYK2032</stok_kodu>
@@ -1257,7 +1215,7 @@ Ayarlanabilir yapısı sayesinde farklı parmak ölçülerine kolayca uyum sağl
     <barcode>5486018908975</barcode>
     <eklenme_tarihi>2021-11-05 12:18:10</eklenme_tarihi>
     <siralam_tarihi>2024-11-05 13:38:12</siralam_tarihi>
-    <miktar>43</miktar>
+    <miktar>42</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -1284,7 +1242,7 @@ Ayarlanabilir yapısı sayesinde farklı parmak ölçülerine kolayca uyum sağl
     <barcode>3734027220376</barcode>
     <eklenme_tarihi>2021-11-05 12:18:24</eklenme_tarihi>
     <siralam_tarihi>2022-03-07 11:50:58</siralam_tarihi>
-    <miktar>31</miktar>
+    <miktar>30</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -1313,7 +1271,7 @@ Ayarlanabilir yapısı sayesinde farklı parmak ölçülerine kolayca uyum sağl
     <barcode>9159053972343</barcode>
     <eklenme_tarihi>2021-11-17 12:13:23</eklenme_tarihi>
     <siralam_tarihi>2025-12-12 15:29:31</siralam_tarihi>
-    <miktar>92</miktar>
+    <miktar>91</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -1344,7 +1302,7 @@ Utterly Good imzalı bu tasarım, sade zarafeti seven kadınlar için günlük �
     <barcode>0035439146456</barcode>
     <eklenme_tarihi>2021-11-17 12:13:28</eklenme_tarihi>
     <siralam_tarihi>2025-12-12 15:29:29</siralam_tarihi>
-    <miktar>88</miktar>
+    <miktar>87</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -1375,7 +1333,7 @@ Utterly Good imzalı bu tasarım, sade zarafeti seven kadınlar için günlük �
     <barcode>1091734899694</barcode>
     <eklenme_tarihi>2021-11-23 10:41:53</eklenme_tarihi>
     <siralam_tarihi>2026-03-25 12:54:33</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>32</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -1404,7 +1362,7 @@ Kıyafetinizin altında sessizce parlayan bu parça, kendine güvenen kadınlar 
     <barcode>6524937998925</barcode>
     <eklenme_tarihi>2021-11-23 10:42:00</eklenme_tarihi>
     <siralam_tarihi>2026-09-09 14:51:37</siralam_tarihi>
-    <miktar>75</miktar>
+    <miktar>74</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -1548,7 +1506,7 @@ Minimalist tasarımı sayesinde tek başına şıklık katarken diğer yüzükle
     <barcode>1576959492863</barcode>
     <eklenme_tarihi>2022-02-02 13:11:35</eklenme_tarihi>
     <siralam_tarihi>2022-12-07 09:28:08</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>21</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -1626,7 +1584,7 @@ Utterly Good imzalı bu yüzük, günlük kullanıma uygun rahat yapısıyla hem
     <barcode>5721417811748</barcode>
     <eklenme_tarihi>2022-02-15 09:35:28</eklenme_tarihi>
     <siralam_tarihi>2023-10-16 14:22:56</siralam_tarihi>
-    <miktar>87</miktar>
+    <miktar>86</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -1898,7 +1856,7 @@ Feminen ve zarif duruşuyla bu yüzük, kıyafetlerinizi tamamlayan küçük ama
     <barcode>7887875732884</barcode>
     <eklenme_tarihi>2022-03-18 13:10:14</eklenme_tarihi>
     <siralam_tarihi>2026-09-09 14:51:28</siralam_tarihi>
-    <miktar>38</miktar>
+    <miktar>31</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -2016,7 +1974,7 @@ Feminen ve zarif duruşuyla bu yüzük, kıyafetlerinizi tamamlayan küçük ama
     <barcode>8877018975109</barcode>
     <eklenme_tarihi>2022-03-31 10:24:08</eklenme_tarihi>
     <siralam_tarihi>2026-09-09 14:51:56</siralam_tarihi>
-    <miktar>29</miktar>
+    <miktar>28</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -2238,7 +2196,7 @@ Boynunuzda hafifçe salınan bu kelebek tasarımı, sade kıyafetleri bile özel
     <barcode>4102551444626</barcode>
     <eklenme_tarihi>2022-05-11 08:02:11</eklenme_tarihi>
     <siralam_tarihi>2026-01-20 11:24:04</siralam_tarihi>
-    <miktar>88</miktar>
+    <miktar>87</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -2358,7 +2316,7 @@ Boynunuzda hafifçe salınan bu kelebek tasarımı, sade kıyafetleri bile özel
     <barcode>5758749342701</barcode>
     <eklenme_tarihi>2022-05-13 13:26:20</eklenme_tarihi>
     <siralam_tarihi>2025-04-21 17:00:01</siralam_tarihi>
-    <miktar>41</miktar>
+    <miktar>40</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -2386,7 +2344,7 @@ Boynunuzda hafifçe salınan bu kelebek tasarımı, sade kıyafetleri bile özel
     <barcode>9233841170071</barcode>
     <eklenme_tarihi>2022-05-13 13:26:23</eklenme_tarihi>
     <siralam_tarihi>2026-09-09 14:51:43</siralam_tarihi>
-    <miktar>21</miktar>
+    <miktar>20</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -2548,7 +2506,7 @@ Dalga desenini modern bir yorumla ele alan bu bileklik, sade bir zarafet arayanl
     <barcode>5352536736553</barcode>
     <eklenme_tarihi>2022-11-03 15:31:56</eklenme_tarihi>
     <siralam_tarihi>2026-01-20 11:24:14</siralam_tarihi>
-    <miktar>93</miktar>
+    <miktar>92</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -3161,7 +3119,7 @@ Rahat kullanımı ve sade duruşuyla hem iş hem de günlük yaşamda kolayca ta
     <barcode>8131317185479</barcode>
     <eklenme_tarihi>2023-04-06 12:44:57</eklenme_tarihi>
     <siralam_tarihi>2023-10-24 07:43:56</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>7</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -3512,7 +3470,7 @@ Gümüş rengi ile kombinlerinize kolayca uyum sağlayan bu halhal, Utterly Good
     <barcode>4906832481818</barcode>
     <eklenme_tarihi>2023-05-04 13:46:27</eklenme_tarihi>
     <siralam_tarihi>2023-12-14 15:30:02</siralam_tarihi>
-    <miktar>37</miktar>
+    <miktar>36</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -3539,7 +3497,7 @@ Gümüş rengi ile kombinlerinize kolayca uyum sağlayan bu halhal, Utterly Good
     <barcode>1145680881002</barcode>
     <eklenme_tarihi>2023-05-16 10:34:29</eklenme_tarihi>
     <siralam_tarihi>2025-03-16 02:33:19</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>25</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -3887,7 +3845,7 @@ Sadeliği ve göz alıcı tasarımıyla dikkat çeken bu yüzük, hem kendinize 
     <barcode>3014697740597</barcode>
     <eklenme_tarihi>2023-06-12 11:56:11</eklenme_tarihi>
     <siralam_tarihi>2025-10-09 10:14:43</siralam_tarihi>
-    <miktar>93</miktar>
+    <miktar>92</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -3914,7 +3872,7 @@ Sadeliği ve göz alıcı tasarımıyla dikkat çeken bu yüzük, hem kendinize 
     <barcode>9389299530926</barcode>
     <eklenme_tarihi>2023-06-12 11:56:22</eklenme_tarihi>
     <siralam_tarihi>2026-08-10 22:43:18</siralam_tarihi>
-    <miktar>147</miktar>
+    <miktar>146</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -4701,7 +4659,7 @@ Utterly Good imzasıyla hazırlanan bu bayan yüzük, sade kıyafetlerden özel 
     <barcode>2309200554398</barcode>
     <eklenme_tarihi>2023-08-25 16:17:54</eklenme_tarihi>
     <siralam_tarihi>2026-02-11 16:09:17</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>8</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -6833,7 +6791,7 @@ Utterly Good imzalı bu küpe, günlük kullanıma uygun sade tasarımıyla hem 
     <barcode>9910354512818</barcode>
     <eklenme_tarihi>2023-11-25 09:11:38</eklenme_tarihi>
     <siralam_tarihi>2026-10-10 13:12:00</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>23</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -6912,56 +6870,6 @@ Utterly Good imzalı bu küpe, günlük kullanıma uygun sade tasarımıyla hem 
 Ürün Bilgileri:
 - Malzeme: 316L paslanmaz çelik</aciklama>
   <satis_fiyati>549.9</satis_fiyati></Urun>
-  <Urun>
-    <adi>Utterly Good 316L Çelik Kalp Model Küpe Gold Renk Zirkon Taşlı</adi>
-    <stok_kodu>BKP8120</stok_kodu>
-    <product_id />
-    <id>656722ed890eb40a6d0a34c2</id>
-    <barcode>5221284032739</barcode>
-    <eklenme_tarihi>2023-11-29 12:39:25</eklenme_tarihi>
-    <siralam_tarihi>2023-11-29 12:39:25</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Küpe</kategori>
-    <AnaKategori>Kadın|Küpe|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1701259867_BKP8120.jpg</resim1>
-    </resim>
-    <fiyat>
-      <son_kullanici>169.9</son_kullanici>
-      <bayi_fiyati>59.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Utterly Good</marka>
-    <filtreler>
-      <filtre>
-        <name>Taş Cinsi</name>
-        <value>Zirkon Taş</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Çelik</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Altın</value>
-      </filtre>
-      <filtre>
-        <name>Beden</name>
-        <value>Standart</value>
-      </filtre>
-    </filtreler>
-    <aciklama>Kalbin zarif çizgilerini zirkon taşların pırıltısıyla buluşturan bu küpe, gold renk 316L çelik yapısıyla hem şık hem dayanıklı bir seçenek sunuyor. Utterly Good imzalı tasarım, günlük kullanıma uygun standart beden yapısıyla her kombine kolayca uyum sağlıyor.
-
-Zarif kalp figürü ve göz alıcı zirkon detaylarıyla bu küpe, sade ama etkileyici bir tarz arayanlar için ideal. Altın rengin sıcaklığını çelik materyalin sağlamlığıyla bir araya getiren tasarım, günün her anında rahatlıkla takılabilir.
-
-Ürün Bilgileri:
-- Malzeme: 316L paslanmaz çelik</aciklama>
-  <satis_fiyati>419.9</satis_fiyati></Urun>
   <Urun>
     <adi>Utterly Good Kadın Yüzük Gold Renk Pembe Zirkon Taşlı Kelebek Model</adi>
     <stok_kodu>BYK2842</stok_kodu>
@@ -7108,7 +7016,7 @@ Parmakta zarif bir ışıltı bırakan bu model, sade kıyafetleri tamamlayan ş
     <barcode>5346080972635</barcode>
     <eklenme_tarihi>2023-12-08 12:38:24</eklenme_tarihi>
     <siralam_tarihi>2023-12-08 12:38:24</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>32</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -7396,7 +7304,7 @@ Günlük kombinlerden özel davetlere kadar her ana uyum sağlayan bu küpe, çe
     <barcode>3593826007881</barcode>
     <eklenme_tarihi>2023-12-14 13:48:18</eklenme_tarihi>
     <siralam_tarihi>2025-10-31 14:15:14</siralam_tarihi>
-    <miktar>80</miktar>
+    <miktar>77</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -7481,7 +7389,7 @@ Günlük kombinlerden özel davetlere kadar her ana uyum sağlayan bu küpe, çe
     <barcode>1388109906201</barcode>
     <eklenme_tarihi>2023-12-14 14:08:58</eklenme_tarihi>
     <siralam_tarihi>2024-10-03 10:31:00</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>4</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -7699,7 +7607,7 @@ Günlük kombinlerden özel davetlere kadar her ana uyum sağlayan bu küpe, çe
     <barcode>8944545159101</barcode>
     <eklenme_tarihi>2023-12-29 10:25:48</eklenme_tarihi>
     <siralam_tarihi>2024-03-07 12:12:33</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>14</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -8599,7 +8507,7 @@ Günlük kullanıma uygun tasarımıyla sabahtan akşama tarzınızın vazgeçil
     <barcode>3526911244885</barcode>
     <eklenme_tarihi>2024-01-17 16:10:59</eklenme_tarihi>
     <siralam_tarihi>2025-01-10 14:11:09</siralam_tarihi>
-    <miktar>51</miktar>
+    <miktar>50</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -10068,7 +9976,7 @@ Hem sade hem de göz alıcı duruşuyla bu bileklik, her tarza kolayca uyum sağ
     <barcode>1967682108433</barcode>
     <eklenme_tarihi>2024-02-20 13:05:34</eklenme_tarihi>
     <siralam_tarihi>2025-03-20 09:51:48</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>4</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -10756,7 +10664,7 @@ Günlük kullanıma uygun tasarımı sayesinde iş, okul veya arkadaş buluşmal
     <barcode>5750154919882</barcode>
     <eklenme_tarihi>2024-02-26 07:45:18</eklenme_tarihi>
     <siralam_tarihi>2024-04-15 10:44:08</siralam_tarihi>
-    <miktar>35</miktar>
+    <miktar>34</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -12284,7 +12192,7 @@ Utterly Good imzalı bu halhal, hem tek başına hem de diğer ayak aksesuarlar�
     <barcode>1388422686293</barcode>
     <eklenme_tarihi>2024-04-17 14:23:57</eklenme_tarihi>
     <siralam_tarihi>2024-04-17 14:23:57</siralam_tarihi>
-    <miktar>18</miktar>
+    <miktar>17</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -12719,7 +12627,7 @@ Standart beden yapısıyla her tarza kolayca uyum sağlayan bu küpe, minimal am
     <barcode>9773732397335</barcode>
     <eklenme_tarihi>2024-05-06 16:20:43</eklenme_tarihi>
     <siralam_tarihi>2026-04-22 09:14:54</siralam_tarihi>
-    <miktar>36</miktar>
+    <miktar>34</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -13864,7 +13772,7 @@ Standart beden yapısı sayesinde rahatlıkla takılabilen bu küpe, hem ofiste 
     <barcode>9268253750160</barcode>
     <eklenme_tarihi>2024-05-16 14:27:16</eklenme_tarihi>
     <siralam_tarihi>2024-05-16 14:27:16</siralam_tarihi>
-    <miktar>49</miktar>
+    <miktar>48</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -14462,7 +14370,7 @@ Harf detayı, kolyeye özel bir anlam katarken İtalyan zincir modeli boyun hatt
     <barcode>2542725924165</barcode>
     <eklenme_tarihi>2024-05-20 09:09:13</eklenme_tarihi>
     <siralam_tarihi>2024-05-20 09:09:13</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>17</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -14618,7 +14526,7 @@ Harf detayı, kolyeye özel bir anlam katarken İtalyan zincir modeli boyun hatt
     <barcode>9844106916329</barcode>
     <eklenme_tarihi>2024-05-20 09:11:31</eklenme_tarihi>
     <siralam_tarihi>2024-05-20 09:11:31</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>13</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -14666,7 +14574,7 @@ Ayarlanabilir yapısı sayesinde parmağınıza kolayca uyum sağlayan yüzük, 
     <barcode>7585232014405</barcode>
     <eklenme_tarihi>2024-05-20 09:11:44</eklenme_tarihi>
     <siralam_tarihi>2024-05-20 09:11:44</siralam_tarihi>
-    <miktar>24</miktar>
+    <miktar>23</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -14940,7 +14848,7 @@ Günlük kombinlerinizi tamamlamak isterseniz ya da özel bir davete zarafet kat
     <barcode>5962199685367</barcode>
     <eklenme_tarihi>2024-05-20 09:15:00</eklenme_tarihi>
     <siralam_tarihi>2024-05-20 09:15:00</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>2</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -16900,7 +16808,7 @@ Günlük kullanıma uygun minimal formu sayesinde hem işe hem okula hem de arka
     <barcode>5467805088926</barcode>
     <eklenme_tarihi>2024-05-31 19:05:52</eklenme_tarihi>
     <siralam_tarihi>2024-05-31 19:05:52</siralam_tarihi>
-    <miktar>76</miktar>
+    <miktar>74</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -16972,7 +16880,7 @@ Günlük kullanıma uygun minimal formu sayesinde hem işe hem okula hem de arka
     <barcode>3617526389051</barcode>
     <eklenme_tarihi>2024-05-31 19:06:06</eklenme_tarihi>
     <siralam_tarihi>2026-06-30 10:23:44</siralam_tarihi>
-    <miktar>87</miktar>
+    <miktar>86</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -17017,7 +16925,7 @@ Günlük kullanıma uygun minimal formu sayesinde hem işe hem okula hem de arka
     <barcode>5862597083829</barcode>
     <eklenme_tarihi>2024-05-31 19:06:11</eklenme_tarihi>
     <siralam_tarihi>2024-05-31 19:06:11</siralam_tarihi>
-    <miktar>31</miktar>
+    <miktar>29</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -17061,7 +16969,7 @@ Günlük kullanıma uygun minimal formu sayesinde hem işe hem okula hem de arka
     <barcode>6144520308131</barcode>
     <eklenme_tarihi>2024-05-31 19:06:15</eklenme_tarihi>
     <siralam_tarihi>2026-06-30 10:23:43</siralam_tarihi>
-    <miktar>92</miktar>
+    <miktar>90</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -17089,7 +16997,7 @@ Günlük kullanıma uygun minimal formu sayesinde hem işe hem okula hem de arka
     <barcode>6911854866404</barcode>
     <eklenme_tarihi>2024-05-31 19:06:31</eklenme_tarihi>
     <siralam_tarihi>2025-03-01 09:17:24</siralam_tarihi>
-    <miktar>81</miktar>
+    <miktar>79</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -17135,7 +17043,7 @@ Günlük kullanıma uygun tasarımı sayesinde ofisten arkadaş buluşmalarına 
     <barcode>0349131969405</barcode>
     <eklenme_tarihi>2024-05-31 19:06:37</eklenme_tarihi>
     <siralam_tarihi>2024-05-31 19:06:37</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>2</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -17179,7 +17087,7 @@ Günlük kullanıma uygun tasarımı sayesinde ofisten arkadaş buluşmalarına 
     <barcode>7338678439949</barcode>
     <eklenme_tarihi>2024-05-31 19:06:55</eklenme_tarihi>
     <siralam_tarihi>2024-05-31 19:06:55</siralam_tarihi>
-    <miktar>18</miktar>
+    <miktar>17</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -17254,7 +17162,7 @@ Utterly Good imzasıyla tasarlanan bu model, minimal takı severlerin dolabında
     <barcode>4252072945413</barcode>
     <eklenme_tarihi>2024-05-31 19:07:11</eklenme_tarihi>
     <siralam_tarihi>2026-06-30 10:23:44</siralam_tarihi>
-    <miktar>81</miktar>
+    <miktar>79</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -17505,7 +17413,7 @@ Standart beden seçeneğiyle herkese uyum sağlayan bu küpe seti, hem kendinize
     <barcode>9081080694250</barcode>
     <eklenme_tarihi>2024-05-31 19:08:34</eklenme_tarihi>
     <siralam_tarihi>2024-05-31 19:08:34</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>7</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -21112,49 +21020,6 @@ Standart beden kesimi sayesinde her boyuna rahatça uyum sağlayan bu kalp kolye
 - Malzeme: Pirinç</aciklama>
   <satis_fiyati>429.9</satis_fiyati></Urun>
   <Urun>
-    <adi>Utterly Good 316L Çelik Çift Zincirli Gümüş Kolye İtalyan Model Topçuk Detay</adi>
-    <stok_kodu>BKO8877</stok_kodu>
-    <product_id />
-    <id>668d1d69fd1f4dd44304df92</id>
-    <barcode>1588506886520</barcode>
-    <eklenme_tarihi>2024-07-09 13:22:17</eklenme_tarihi>
-    <siralam_tarihi>2024-07-09 13:22:17</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Kolye</kategori>
-    <AnaKategori>Kadın|Kolye|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1720525733_BKO8877-1.jpg</resim1>
-      <resim2>https://app.ebijuteri.com/storage/files/uploads/pimg/1720525733_BKO8877.jpg</resim2>
-      <resim3>https://app.ebijuteri.com/storage/files/uploads/pimg/1720525733_BKO8877-2.jpg</resim3>
-    </resim>
-    <fiyat>
-      <son_kullanici>179.9</son_kullanici>
-      <bayi_fiyati>66.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Utterly Good</marka>
-    <filtreler>
-      <filtre>
-        <name>Materyal</name>
-        <value>Çelik</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Gümüş</value>
-      </filtre>
-      <filtre>
-        <name>Beden</name>
-        <value>Standart</value>
-      </filtre>
-    </filtreler>
-    <aciklama>İnce ve kalın zincirlerin bir arada dokunduğu 316L Çelik Çift Zincirli Gümüş Renk Topçuk İtalyan Model Kolye, boyun hattında zarif bir kontrast yaratıyor. Gümüş tonu ve topçuk detaylarıyla İtalyan tasarım çizgisini yansıtan bu parça, hem günlük hem özel kombinlerde şıklığınızı tamamlıyor. Utterly Good imzasıyla dolapta hak ettiği yeri alacak bir seçim.
-
-Ürün Bilgileri:
-- Zincir uzunluğu: 45 cm
-- Malzeme: 316L paslanmaz çelik</aciklama>
-  <satis_fiyati>429.9</satis_fiyati></Urun>
-  <Urun>
     <adi>Utterly Good 316L Çelik Gümüş Renk Zirkon Taşlı Kolye</adi>
     <stok_kodu>BKO8884</stok_kodu>
     <product_id />
@@ -21626,7 +21491,7 @@ Gümüş rengin soğuk zarafetini taşıyan bu kolye, ister günlük kombinlerde
     <barcode>8048507845115</barcode>
     <eklenme_tarihi>2024-07-27 10:03:36</eklenme_tarihi>
     <siralam_tarihi>2024-07-27 10:03:36</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>5</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -24299,7 +24164,7 @@ Standart beden yapısıyla rahatça kullanabileceğiniz bu küpe, günlük şık
     <barcode>8467630788586</barcode>
     <eklenme_tarihi>2024-08-15 14:45:16</eklenme_tarihi>
     <siralam_tarihi>2024-08-15 14:45:16</siralam_tarihi>
-    <miktar>32</miktar>
+    <miktar>31</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -26330,7 +26195,7 @@ Kalp detaylarının canlı renkleri, sade kıyafetlere sevimli bir dokunuş kata
     <barcode>4194380269839</barcode>
     <eklenme_tarihi>2024-08-22 12:28:33</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:17:05</siralam_tarihi>
-    <miktar>34</miktar>
+    <miktar>30</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -26359,7 +26224,7 @@ Kalp detaylarının canlı renkleri, sade kıyafetlere sevimli bir dokunuş kata
     <barcode>9160761632481</barcode>
     <eklenme_tarihi>2024-08-22 12:28:37</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:17:06</siralam_tarihi>
-    <miktar>37</miktar>
+    <miktar>36</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -26388,7 +26253,7 @@ Kalp detaylarının canlı renkleri, sade kıyafetlere sevimli bir dokunuş kata
     <barcode>6845471879052</barcode>
     <eklenme_tarihi>2024-08-22 12:28:42</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:17:07</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>29</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -26419,7 +26284,7 @@ Yonca figürünün getirdiği pozitif enerjiyi bileğinizde taşımak için tasa
     <barcode>7179583127701</barcode>
     <eklenme_tarihi>2024-08-22 12:29:29</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:17:08</siralam_tarihi>
-    <miktar>60</miktar>
+    <miktar>59</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -26450,7 +26315,7 @@ Utterly Good imzasını taşıyan bu bileklik, günlük kombinlerinizde olduğu 
     <barcode>6207247599401</barcode>
     <eklenme_tarihi>2024-08-22 12:29:34</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:17:10</siralam_tarihi>
-    <miktar>41</miktar>
+    <miktar>40</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -26479,7 +26344,7 @@ Utterly Good imzasını taşıyan bu bileklik, günlük kombinlerinizde olduğu 
     <barcode>3697926697758</barcode>
     <eklenme_tarihi>2024-08-22 12:29:37</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:17:10</siralam_tarihi>
-    <miktar>34</miktar>
+    <miktar>33</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -26508,7 +26373,7 @@ Utterly Good imzasını taşıyan bu bileklik, günlük kombinlerinizde olduğu 
     <barcode>0499863925108</barcode>
     <eklenme_tarihi>2024-08-22 12:30:06</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:17:13</siralam_tarihi>
-    <miktar>55</miktar>
+    <miktar>54</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -26537,7 +26402,7 @@ Utterly Good imzasını taşıyan bu bileklik, günlük kombinlerinizde olduğu 
     <barcode>6481010910741</barcode>
     <eklenme_tarihi>2024-08-22 12:30:08</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:17:14</siralam_tarihi>
-    <miktar>52</miktar>
+    <miktar>49</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -26733,7 +26598,7 @@ Utterly Good imzalı bu kolye, boyunda hafif ve şık bir dokunuş arayanlar iç
     <barcode>9015780323578</barcode>
     <eklenme_tarihi>2024-08-22 14:57:30</eklenme_tarihi>
     <siralam_tarihi>2026-06-09 11:27:17</siralam_tarihi>
-    <miktar>54</miktar>
+    <miktar>53</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -29152,7 +29017,7 @@ Günlük kullanımdan özel davetlere kadar her ana yakışan bu kolye, hem kend
     <barcode>2949903683324</barcode>
     <eklenme_tarihi>2024-09-05 13:38:18</eklenme_tarihi>
     <siralam_tarihi>2026-09-09 14:51:24</siralam_tarihi>
-    <miktar>153</miktar>
+    <miktar>149</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -29184,7 +29049,7 @@ Günlük kullanımdan özel davetlere kadar her ana yakışan bu kolye, hem kend
     <barcode>7937239563774</barcode>
     <eklenme_tarihi>2024-09-05 13:38:22</eklenme_tarihi>
     <siralam_tarihi>2026-09-09 14:51:12</siralam_tarihi>
-    <miktar>169</miktar>
+    <miktar>164</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -29324,7 +29189,7 @@ Günlük kullanımdan özel davetlere kadar her ana yakışan bu kolye, hem kend
     <barcode>6523325937911</barcode>
     <eklenme_tarihi>2024-09-07 10:22:23</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:17:15</siralam_tarihi>
-    <miktar>111</miktar>
+    <miktar>110</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -30138,7 +30003,7 @@ Standart bedeniyle rahat bir kullanım sunan kolye, korunma sembolü olarak bili
     <barcode>1263827634257</barcode>
     <eklenme_tarihi>2024-09-18 11:21:40</eklenme_tarihi>
     <siralam_tarihi>2024-10-17 14:26:54</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>22</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -33156,7 +33021,7 @@ Gümüş rengin şıklığıyla hem ofis hem de günlük kombinlerinizde rahatl�
     <barcode>9355267884926</barcode>
     <eklenme_tarihi>2024-10-11 14:57:44</eklenme_tarihi>
     <siralam_tarihi>2024-10-11 14:57:44</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>1</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -33570,7 +33435,7 @@ Utterly Good imzalı bu tasarım, günlük kullanıma uygun yapısıyla hem şı
     <barcode>8700308259200</barcode>
     <eklenme_tarihi>2024-10-23 14:54:25</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:38:25</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -35659,7 +35524,7 @@ Gümüş rengin şıklığını günlük kullanıma uygun sade bir çizgiyle bul
     <barcode>8947312256744</barcode>
     <eklenme_tarihi>2024-11-14 15:17:51</eklenme_tarihi>
     <siralam_tarihi>2024-11-14 15:17:51</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>5</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -35706,7 +35571,7 @@ Sade şıklığı sevenler için doğru seçim olan bu yüzük, hem ofiste hem g
     <barcode>9046484236055</barcode>
     <eklenme_tarihi>2024-11-14 15:17:55</eklenme_tarihi>
     <siralam_tarihi>2024-11-14 15:17:55</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>4</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -35753,7 +35618,7 @@ Ayarlanabilir yapısı sayesinde her parmağa kolayca uyum sağlayan bu yüzük,
     <barcode>5607387635525</barcode>
     <eklenme_tarihi>2024-11-14 15:17:59</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:38:38</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>21</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -36115,7 +35980,7 @@ Ayarlanabilir yapısı sayesinde parmak ölçüsü fark etmeksizin rahatça kull
     <barcode>5182857628004</barcode>
     <eklenme_tarihi>2024-11-14 15:20:02</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:38:51</siralam_tarihi>
-    <miktar>18</miktar>
+    <miktar>17</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -36162,7 +36027,7 @@ Ayarlanabilir kadrajı sayesinde farklı parmak ölçülerine kolayca uyum sağl
     <barcode>5796675026173</barcode>
     <eklenme_tarihi>2024-11-14 15:20:07</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:38:51</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>12</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -36252,7 +36117,7 @@ Ayarlanabilir kadrajı sayesinde farklı parmak ölçülerine kolayca uyum sağl
     <barcode>9022446268159</barcode>
     <eklenme_tarihi>2024-11-14 15:20:26</eklenme_tarihi>
     <siralam_tarihi>2024-11-14 15:20:26</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>15</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -36297,7 +36162,7 @@ Ayarlanabilir kadrajı sayesinde farklı parmak ölçülerine kolayca uyum sağl
     <barcode>6991831656655</barcode>
     <eklenme_tarihi>2024-11-14 15:20:29</eklenme_tarihi>
     <siralam_tarihi>2024-11-14 15:20:29</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>6</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -36706,7 +36571,7 @@ Günlük kullanıma uygun standart bedeniyle rahatlık sunan bu küpe, hem sade 
     <barcode>0610056021883</barcode>
     <eklenme_tarihi>2024-11-15 15:18:19</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:39:10</siralam_tarihi>
-    <miktar>32</miktar>
+    <miktar>31</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -37454,7 +37319,7 @@ Standart bedeniyle rahat bir kullanım sağlayan bu tasarım, hem sade hem de g�
     <barcode>0408291008901</barcode>
     <eklenme_tarihi>2024-11-21 15:18:36</eklenme_tarihi>
     <siralam_tarihi>2024-11-21 15:18:36</siralam_tarihi>
-    <miktar>38</miktar>
+    <miktar>37</miktar>
     <kategori>Piercing</kategori>
     <AnaKategori>Diğer Ürünler|Piercing|</AnaKategori>
     <kdv>20</kdv>
@@ -37497,7 +37362,7 @@ Standart bedeniyle rahat bir kullanım sağlayan bu tasarım, hem sade hem de g�
     <barcode>3863453191582</barcode>
     <eklenme_tarihi>2024-11-21 15:19:33</eklenme_tarihi>
     <siralam_tarihi>2024-11-21 15:19:33</siralam_tarihi>
-    <miktar>29</miktar>
+    <miktar>28</miktar>
     <kategori>Piercing</kategori>
     <AnaKategori>Diğer Ürünler|Piercing|</AnaKategori>
     <kdv>20</kdv>
@@ -37542,7 +37407,7 @@ Standart bedeniyle günlük kullanıma uygun olan bu piercing, minik yıldız fi
     <barcode>8874793109385</barcode>
     <eklenme_tarihi>2024-11-21 15:19:42</eklenme_tarihi>
     <siralam_tarihi>2024-11-21 15:19:42</siralam_tarihi>
-    <miktar>58</miktar>
+    <miktar>57</miktar>
     <kategori>Piercing</kategori>
     <AnaKategori>Diğer Ürünler|Piercing|</AnaKategori>
     <kdv>20</kdv>
@@ -37718,7 +37583,7 @@ Standart beden yapısı sayesinde günlük kullanıma uygun olan bu piercing, he
     <barcode>5377369981796</barcode>
     <eklenme_tarihi>2024-11-21 15:20:17</eklenme_tarihi>
     <siralam_tarihi>2024-11-21 15:20:17</siralam_tarihi>
-    <miktar>31</miktar>
+    <miktar>30</miktar>
     <kategori>Piercing</kategori>
     <AnaKategori>Diğer Ürünler|Piercing|</AnaKategori>
     <kdv>20</kdv>
@@ -37806,7 +37671,7 @@ Standart beden yapısıyla günlük kullanıma uygun olan bu piercing, gümüş 
     <barcode>6804850678747</barcode>
     <eklenme_tarihi>2024-11-21 15:20:42</eklenme_tarihi>
     <siralam_tarihi>2024-11-21 15:20:42</siralam_tarihi>
-    <miktar>41</miktar>
+    <miktar>40</miktar>
     <kategori>Piercing</kategori>
     <AnaKategori>Diğer Ürünler|Piercing|</AnaKategori>
     <kdv>20</kdv>
@@ -38199,7 +38064,7 @@ Standart bedeniyle günlük kullanıma uygun olan bu Utterly Good imzalı parça
     <barcode>4537571660938</barcode>
     <eklenme_tarihi>2024-11-21 15:22:37</eklenme_tarihi>
     <siralam_tarihi>2024-11-21 15:22:37</siralam_tarihi>
-    <miktar>46</miktar>
+    <miktar>45</miktar>
     <kategori>Piercing</kategori>
     <AnaKategori>Diğer Ürünler|Piercing|</AnaKategori>
     <kdv>20</kdv>
@@ -38332,7 +38197,7 @@ Standart bedeniyle rahat kullanım sağlayan Utterly Good imzalı bu tragus pier
     <barcode>4048824595995</barcode>
     <eklenme_tarihi>2024-11-21 15:22:52</eklenme_tarihi>
     <siralam_tarihi>2024-11-21 15:22:52</siralam_tarihi>
-    <miktar>62</miktar>
+    <miktar>61</miktar>
     <kategori>Piercing</kategori>
     <AnaKategori>Diğer Ürünler|Piercing|</AnaKategori>
     <kdv>20</kdv>
@@ -38422,7 +38287,7 @@ Utterly Good imzalı bu parça, sade duruşu sayesinde tek başına şık görü
     <barcode>5553132710019</barcode>
     <eklenme_tarihi>2024-11-21 15:23:08</eklenme_tarihi>
     <siralam_tarihi>2024-11-21 15:23:08</siralam_tarihi>
-    <miktar>55</miktar>
+    <miktar>54</miktar>
     <kategori>Piercing</kategori>
     <AnaKategori>Diğer Ürünler|Piercing|</AnaKategori>
     <kdv>20</kdv>
@@ -38598,7 +38463,7 @@ Standart bedeni sayesinde rahat kullanım sunan bu piercing, Utterly Good imzas�
     <barcode>3978709685088</barcode>
     <eklenme_tarihi>2024-11-21 15:23:22</eklenme_tarihi>
     <siralam_tarihi>2024-11-21 15:23:22</siralam_tarihi>
-    <miktar>47</miktar>
+    <miktar>46</miktar>
     <kategori>Piercing</kategori>
     <AnaKategori>Diğer Ürünler|Piercing|</AnaKategori>
     <kdv>20</kdv>
@@ -38989,7 +38854,7 @@ Standart bedeniyle günlük kombinlerinize kolayca uyum sağlayan Utterly Good i
     <barcode>1756372267105</barcode>
     <eklenme_tarihi>2024-11-21 15:30:11</eklenme_tarihi>
     <siralam_tarihi>2024-11-21 15:30:11</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>10</miktar>
     <kategori>Piercing</kategori>
     <AnaKategori>Diğer Ürünler|Piercing|</AnaKategori>
     <kdv>20</kdv>
@@ -39120,7 +38985,7 @@ Standart bedeniyle rahat kullanım sağlayan bu parça, Utterly Good imzasıyla 
     <barcode>5377363758530</barcode>
     <eklenme_tarihi>2024-11-21 15:32:00</eklenme_tarihi>
     <siralam_tarihi>2024-11-21 15:32:00</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>12</miktar>
     <kategori>Piercing</kategori>
     <AnaKategori>Diğer Ürünler|Piercing|</AnaKategori>
     <kdv>20</kdv>
@@ -40740,7 +40605,7 @@ Günlük şıklığınıza zarafet katmak isteyenler için ideal bir seçim. Hem
     <barcode>6943411467229</barcode>
     <eklenme_tarihi>2024-11-28 14:16:21</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:39:38</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>18</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -40885,7 +40750,7 @@ Günlük şıklığınıza zarafet katmak isteyenler için ideal bir seçim. Hem
     <barcode>7452796114417</barcode>
     <eklenme_tarihi>2024-12-06 10:10:01</eklenme_tarihi>
     <siralam_tarihi>2024-12-06 10:10:01</siralam_tarihi>
-    <miktar>2</miktar>
+    <miktar>1</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -40932,7 +40797,7 @@ Kombinlerinize zarafet katmak isteyenler için Pirinç Gold Renk İncili Yonca M
     <barcode>4062417803892</barcode>
     <eklenme_tarihi>2024-12-06 10:10:05</eklenme_tarihi>
     <siralam_tarihi>2024-12-06 10:10:05</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>16</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -42915,7 +42780,7 @@ Standart beden seçeneğiyle her kadına uyum sağlayan bu küpe, hem işe hem d
     <barcode>9067004850438</barcode>
     <eklenme_tarihi>2024-12-11 15:29:41</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:40:35</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>18</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -42969,7 +42834,7 @@ Pirinç materyalin sunduğu hafiflik sayesinde gün boyu rahatça takabileceğin
     <barcode>9792079262076</barcode>
     <eklenme_tarihi>2024-12-11 15:29:43</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:40:35</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>2</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -43664,7 +43529,7 @@ Standart beden yapısıyla rahat kullanım sunan bu kolye, sade ama etkileyici d
     <barcode>6814117480617</barcode>
     <eklenme_tarihi>2024-12-12 14:07:21</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:22:22</siralam_tarihi>
-    <miktar>48</miktar>
+    <miktar>47</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -48757,7 +48622,7 @@ Ayarlanabilir yapısı sayesinde parmak ölçüsü kaygısı yaşamadan rahatlı
     <barcode>6951295677474</barcode>
     <eklenme_tarihi>2025-01-08 12:52:49</eklenme_tarihi>
     <siralam_tarihi>2025-01-08 12:52:49</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>4</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -51922,7 +51787,7 @@ Ayarlanabilir yapısı sayesinde parmak ölçüsü derdi olmadan rahatça kullan
     <barcode>3562378614601</barcode>
     <eklenme_tarihi>2025-02-04 14:23:34</eklenme_tarihi>
     <siralam_tarihi>2025-02-04 14:23:34</siralam_tarihi>
-    <miktar>127</miktar>
+    <miktar>126</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -51950,7 +51815,7 @@ Ayarlanabilir yapısı sayesinde parmak ölçüsü derdi olmadan rahatça kullan
     <barcode>5567030982188</barcode>
     <eklenme_tarihi>2025-02-04 14:23:36</eklenme_tarihi>
     <siralam_tarihi>2025-02-04 14:23:36</siralam_tarihi>
-    <miktar>61</miktar>
+    <miktar>60</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -53925,7 +53790,7 @@ Standart bedeniyle her tarza kolayca uyum sağlayan kalp detayı, kombinlerinize
     <barcode>2805546139942</barcode>
     <eklenme_tarihi>2025-02-20 15:04:37</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:36:56</siralam_tarihi>
-    <miktar>29</miktar>
+    <miktar>28</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -54237,7 +54102,7 @@ Sabah kombininden akşam buluşmalarına kadar rahatlıkla takılabilen bu model
     <barcode>9211144373757</barcode>
     <eklenme_tarihi>2025-02-20 15:05:29</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:37:05</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>29</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -55787,7 +55652,7 @@ Altın ve gümüş renk seçenekleriyle sunulan bu yonca model bileklik, hem sad
     <barcode>5434458039704</barcode>
     <eklenme_tarihi>2025-03-07 12:14:51</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:17:23</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>10</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -55879,7 +55744,7 @@ Hem sade hem iddialı duruşuyla bu bileklik, her kıyafetle uyum sağlayarak g�
     <barcode>4206913897010</barcode>
     <eklenme_tarihi>2025-03-07 12:15:06</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:17:24</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>4</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -55923,7 +55788,7 @@ Hem sade hem iddialı duruşuyla bu bileklik, her kıyafetle uyum sağlayarak g�
     <barcode>5923733094915</barcode>
     <eklenme_tarihi>2025-03-07 12:15:08</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:17:25</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>7</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -55969,7 +55834,7 @@ Utterly Good imzasıyla sunulan gümüş tonu, hem sade kombinlerde hem özel g�
     <barcode>1954393629920</barcode>
     <eklenme_tarihi>2025-03-07 12:15:14</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:17:28</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>4</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -56013,7 +55878,7 @@ Utterly Good imzasıyla sunulan gümüş tonu, hem sade kombinlerde hem özel g�
     <barcode>2534049421994</barcode>
     <eklenme_tarihi>2025-03-07 12:15:16</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:17:29</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>7</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -56059,7 +55924,7 @@ Günlük kullanıma uygun tasarımıyla hem kombinlerinize hafif bir parlaklık 
     <barcode>9609239164487</barcode>
     <eklenme_tarihi>2025-03-07 12:15:22</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:37:22</siralam_tarihi>
-    <miktar>44</miktar>
+    <miktar>43</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -56130,7 +55995,7 @@ Günlük kullanıma uygun tasarımıyla hem kombinlerinize hafif bir parlaklık 
     <barcode>4888216027389</barcode>
     <eklenme_tarihi>2025-03-07 12:15:29</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:37:26</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>15</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -56266,7 +56131,7 @@ Günlük kullanıma uygun sade ama etkileyici duruşuyla bu bileklik, hem iş he
     <barcode>4150561160883</barcode>
     <eklenme_tarihi>2025-03-07 12:15:46</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:17:32</siralam_tarihi>
-    <miktar>41</miktar>
+    <miktar>38</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -56358,7 +56223,7 @@ Utterly Good imzalı bu bileklik, hem sade hem de dikkat çekici duruşuyla her 
     <barcode>7834995376269</barcode>
     <eklenme_tarihi>2025-03-07 12:17:52</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:37:37</siralam_tarihi>
-    <miktar>44</miktar>
+    <miktar>43</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -56492,7 +56357,7 @@ Günlük kullanıma uygun tasarımıyla hem ofis hem de dışarı kombinlerinizd
     <barcode>5316127048494</barcode>
     <eklenme_tarihi>2025-03-07 12:19:14</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:37:42</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>5</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -56730,46 +56595,6 @@ Setin çok yönlü tasarımı sayesinde farklı stillerle rahatlıkla eşleştir
 Ürün Bilgileri:
 - Malzeme: 316L paslanmaz çelik</aciklama>
   <satis_fiyati>429.9</satis_fiyati></Urun>
-  <Urun>
-    <adi>Utterly Good Kadın Yüzük Kombini Gümüş Renk Nazar Boncuklu Kelebek İncili</adi>
-    <stok_kodu>BYK3649</stok_kodu>
-    <product_id />
-    <id>67ee688eda7f2a77a60b1de4</id>
-    <barcode>2258821216676</barcode>
-    <eklenme_tarihi>2025-04-03 12:53:02</eklenme_tarihi>
-    <siralam_tarihi>2025-04-03 12:53:02</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Bayan Yüzük ve Kombinler</kategori>
-    <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1743685786_BYK3649.jpg</resim1>
-    </resim>
-    <fiyat>
-      <son_kullanici>229.9</son_kullanici>
-      <bayi_fiyati>89.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Utterly Good</marka>
-    <filtreler>
-      <filtre>
-        <name>Materyal</name>
-        <value>Pirinç</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Gümüş</value>
-      </filtre>
-    </filtreler>
-    <aciklama>Kelebek detayları ve inci işlemesiyle şıklığını belli eden bu yüzük kombini, nazar boncuğu detayıyla anlam kazanıyor. Pirinç materyalden üretilen gümüş renk tasarım, günlük kullanıma uygun zarif duruşuyla kombinlerinize hafiflik katıyor. Utterly Good imzalı bu kombin, hem tek başına hem de diğer yüzüklerinizle katmanlı şekilde takılarak elinize ayrı bir karakter kazandırıyor.
-
-Ürün Bilgileri:
-- Malzeme: Pirinç</aciklama>
-  <satis_fiyati>479.9</satis_fiyati></Urun>
   <Urun>
     <adi>Utterly Good Kadın Küpe Pirinç Gümüş Renk Bordo Yonca Model Günlük Kullanım</adi>
     <stok_kodu>BKP10359</stok_kodu>
@@ -59538,7 +59363,7 @@ Günlük kullanıma uygun tasarımı sayesinde hem sade kombinlerde hem özel da
     <barcode>1998145614017</barcode>
     <eklenme_tarihi>2025-04-21 14:33:53</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:17:34</siralam_tarihi>
-    <miktar>29</miktar>
+    <miktar>26</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -61026,7 +60851,7 @@ Utterly Good imzasını taşıyan bu yüzük, hem tek başına hem de diğer par
     <barcode>0688714479093</barcode>
     <eklenme_tarihi>2025-04-28 15:09:01</eklenme_tarihi>
     <siralam_tarihi>2025-04-28 15:09:01</siralam_tarihi>
-    <miktar>2</miktar>
+    <miktar>0</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -62201,7 +62026,7 @@ Utterly Good imzalı bu tasarım, standart bedeniyle rahat bir kullanım sunarke
     <barcode>2009242103263</barcode>
     <eklenme_tarihi>2025-05-12 11:35:39</eklenme_tarihi>
     <siralam_tarihi>2025-05-12 11:35:39</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>4</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -62507,7 +62332,7 @@ Standart beden yapısıyla rahat kullanım sağlayan bu portre model kolye, hem 
     <barcode>1857458320018</barcode>
     <eklenme_tarihi>2025-05-12 11:35:50</eklenme_tarihi>
     <siralam_tarihi>2025-05-12 11:35:50</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>1</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -62709,7 +62534,7 @@ Altın rengin zarafetini mavi minenin canlılığıyla buluşturan Utterly Good 
     <barcode>4190604275242</barcode>
     <eklenme_tarihi>2025-05-12 11:35:58</eklenme_tarihi>
     <siralam_tarihi>2025-05-12 11:35:58</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>4</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -62759,7 +62584,7 @@ Altın rengin zarafetini mavi minenin canlılığıyla buluşturan Utterly Good 
     <barcode>9361595301141</barcode>
     <eklenme_tarihi>2025-05-12 11:36:35</eklenme_tarihi>
     <siralam_tarihi>2025-05-12 11:36:35</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>17</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -62955,7 +62780,7 @@ Utterly Good imzalı bu kadın kolye, altın rengin sıcaklığını mavinin fer
     <barcode>4677679463496</barcode>
     <eklenme_tarihi>2025-05-12 11:36:44</eklenme_tarihi>
     <siralam_tarihi>2025-05-12 11:36:44</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>1</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -63301,7 +63126,7 @@ Günlük kullanıma uygun standart bedeniyle hem rahat hem stil sahibi bir seçi
     <barcode>2517324686165</barcode>
     <eklenme_tarihi>2025-05-15 15:46:37</eklenme_tarihi>
     <siralam_tarihi>2026-08-17 11:08:40</siralam_tarihi>
-    <miktar>31</miktar>
+    <miktar>30</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -65065,55 +64890,6 @@ Standart beden yapısıyla rahat kullanım sunan küpe, kıkırdak bölgesinde z
 - Malzeme: Pirinç</aciklama>
   <satis_fiyati>349.9</satis_fiyati></Urun>
   <Urun>
-    <adi>Utterly Good Gümüş Renk Zirkon Taşlı 3'lü Sıralı Kıkırdak Küpe</adi>
-    <stok_kodu>BKP10554</stok_kodu>
-    <product_id />
-    <id>682d9b1754dd6787c4033412</id>
-    <barcode>5612423064177</barcode>
-    <eklenme_tarihi>2025-05-21 11:21:27</eklenme_tarihi>
-    <siralam_tarihi>2025-05-21 11:21:27</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Küpe</kategori>
-    <AnaKategori>Kadın|Küpe|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1747827880_BKP10554.jpg</resim1>
-      <resim2>https://app.ebijuteri.com/storage/files/uploads/pimg/1747827881_BKP10554-2.jpg</resim2>
-    </resim>
-    <fiyat>
-      <son_kullanici>99.9</son_kullanici>
-      <bayi_fiyati>44.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Utterly Good</marka>
-    <filtreler>
-      <filtre>
-        <name>Taş Cinsi</name>
-        <value>Zirkon Taş</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Pirinç</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Gümüş</value>
-      </filtre>
-      <filtre>
-        <name>Beden</name>
-        <value>Standart</value>
-      </filtre>
-    </filtreler>
-    <aciklama>Kulak kıkırdağınıza zarafet katmak isteyenler için tasarlanan Pirinç Gümüş Renk Zirkon Taşlı 3'Lü Sıralı Kadın Kıkırdak Küpe, pirinç materyali ve gümüş rengiyle şık bir görünüm sunuyor. Alt alta sıralanan zirkon taşları ışıltılı bir detay katarken, günlük kullanıma uygun standart tasarımıyla her kombine kolayca uyum sağlıyor. Utterly Good imzasıyla tarzınızı tamamlayacak pratik bir seçenek.
-
-Ürün Bilgileri:
-- Malzeme: Pirinç</aciklama>
-  <satis_fiyati>349.9</satis_fiyati></Urun>
-  <Urun>
     <adi>Utterly Good Gümüş Renk Zirkon Taşlı Kıkırdak Model Kadın Küpe</adi>
     <stok_kodu>BKP10559</stok_kodu>
     <product_id />
@@ -66414,7 +66190,7 @@ Altın rengi tonuyla her kombine zarif bir dokunuş katan bu bileklik, günlük 
     <barcode>7307910305397</barcode>
     <eklenme_tarihi>2025-05-27 09:25:04</eklenme_tarihi>
     <siralam_tarihi>2026-08-04 14:28:40</siralam_tarihi>
-    <miktar>60</miktar>
+    <miktar>59</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -66446,7 +66222,7 @@ Her tarza kolayca uyum sağlayan yonca tasarımı, şıklığından ödün verme
     <barcode>7566496808030</barcode>
     <eklenme_tarihi>2025-05-27 09:25:07</eklenme_tarihi>
     <siralam_tarihi>2026-08-04 14:28:45</siralam_tarihi>
-    <miktar>32</miktar>
+    <miktar>31</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -67103,7 +66879,7 @@ Ayarlanabilir yapısı sayesinde her parmağa kolayca uyum sağlayan bu yüzük,
     <barcode>8958586779846</barcode>
     <eklenme_tarihi>2025-05-27 15:11:17</eklenme_tarihi>
     <siralam_tarihi>2025-05-27 15:11:17</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -67271,7 +67047,7 @@ Günlük kombinlerinize mistik bir hava katmak isteyenler için ideal bu parça,
     <barcode>8327168845208</barcode>
     <eklenme_tarihi>2025-05-28 15:20:34</eklenme_tarihi>
     <siralam_tarihi>2025-05-28 15:20:34</siralam_tarihi>
-    <miktar>168</miktar>
+    <miktar>167</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -68157,7 +67933,7 @@ Günlük kıyafetlerden özel davetlere kadar her tarza uyum sağlayan bu figür
     <barcode>6547346610493</barcode>
     <eklenme_tarihi>2025-06-03 11:01:09</eklenme_tarihi>
     <siralam_tarihi>2025-06-03 11:01:09</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>11</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -68346,7 +68122,7 @@ Utterly Good imzalı bu tasarım, hem günlük kombinlerde hem de özel davetler
     <barcode>9748098362112</barcode>
     <eklenme_tarihi>2025-06-03 15:47:23</eklenme_tarihi>
     <siralam_tarihi>2025-06-03 15:47:23</siralam_tarihi>
-    <miktar>38</miktar>
+    <miktar>37</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -68696,7 +68472,7 @@ Günlük kullanımdan özel davetlere, bileğinizden eksik olmayacak bir parça 
     <barcode>7445886627645</barcode>
     <eklenme_tarihi>2025-06-03 15:48:56</eklenme_tarihi>
     <siralam_tarihi>2025-06-03 15:48:56</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>13</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -72878,7 +72654,7 @@ Boynunuzde asılı duran o kalp, sevdiklerinize ya da kendinize küçük bir hat
     <barcode>0671805789201</barcode>
     <eklenme_tarihi>2025-06-28 12:37:59</eklenme_tarihi>
     <siralam_tarihi>2025-06-28 12:37:59</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>20</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -73173,7 +72949,7 @@ Utterly Good imzalı bu set, günlük kullanıma uygun pratik tasarımıyla fark
     <barcode>8871281354203</barcode>
     <eklenme_tarihi>2025-06-30 19:13:57</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:35:28</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>10</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -73229,7 +73005,7 @@ Utterly Good imzalı bu set, günlük kullanıma uygun pratik tasarımıyla fark
     <barcode>4366002113527</barcode>
     <eklenme_tarihi>2025-06-30 19:14:02</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:35:28</siralam_tarihi>
-    <miktar>9</miktar>
+    <miktar>8</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -73572,7 +73348,7 @@ Günlük kullanımdan özel davetlere kadar her ana eşlik edebilecek bu tasarı
     <barcode>4410034610421</barcode>
     <eklenme_tarihi>2025-07-02 11:42:04</eklenme_tarihi>
     <siralam_tarihi>2025-07-02 11:42:04</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>25</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -73963,7 +73739,7 @@ Kelepçe formu sayesinde kolay takılıp çıkarılan bu bileklik, kombinleriniz
     <barcode>9082446756247</barcode>
     <eklenme_tarihi>2025-07-08 10:07:40</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:35:05</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>16</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -74227,7 +74003,7 @@ Utterly Good imzalı bu çelik kolye, gümüş renk tonuyla hem sade hem şık b
     <barcode>9715054495030</barcode>
     <eklenme_tarihi>2025-07-08 10:17:21</eklenme_tarihi>
     <siralam_tarihi>2026-10-17 11:54:12</siralam_tarihi>
-    <miktar>61</miktar>
+    <miktar>60</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -74258,7 +74034,7 @@ Uğur böceği figürüyle şansı ve pozitifliği simgeleyen bu model, günlük
     <barcode>6597922001696</barcode>
     <eklenme_tarihi>2025-07-08 10:17:24</eklenme_tarihi>
     <siralam_tarihi>2026-10-17 11:54:11</siralam_tarihi>
-    <miktar>50</miktar>
+    <miktar>48</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -74287,7 +74063,7 @@ Uğur böceği figürüyle şansı ve pozitifliği simgeleyen bu model, günlük
     <barcode>3181948585914</barcode>
     <eklenme_tarihi>2025-07-08 10:17:29</eklenme_tarihi>
     <siralam_tarihi>2026-10-17 11:54:07</siralam_tarihi>
-    <miktar>36</miktar>
+    <miktar>34</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -76858,7 +76634,7 @@ Kıyafetlerinizle kolayca uyum sağlayan bu kelepçe, feminen bir hava katmak is
     <barcode>2809398018974</barcode>
     <eklenme_tarihi>2025-07-30 15:18:11</eklenme_tarihi>
     <siralam_tarihi>2025-07-30 15:18:11</siralam_tarihi>
-    <miktar>65</miktar>
+    <miktar>63</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -76887,7 +76663,7 @@ Setin sunduğu çok yönlülük sayesinde tek bir küpeyle farklı stiller yarat
     <barcode>1714130073061</barcode>
     <eklenme_tarihi>2025-07-30 15:18:15</eklenme_tarihi>
     <siralam_tarihi>2026-04-22 09:02:25</siralam_tarihi>
-    <miktar>42</miktar>
+    <miktar>40</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -77317,7 +77093,7 @@ Setin sunduğu çok yönlülük sayesinde tek bir küpeyle farklı stiller yarat
     <barcode>4546000551792</barcode>
     <eklenme_tarihi>2025-08-07 15:32:51</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:32:51</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>9</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -77601,7 +77377,7 @@ Günlük kullanıma uygun tasarımı sayesinde hem şıklığınızı tamamlıyo
     <barcode>3084679609204</barcode>
     <eklenme_tarihi>2025-08-07 15:40:09</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:40:09</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>9</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -78083,7 +77859,7 @@ Utterly Good imzalı bu tasarım, hem sade kıyafetlerle hem de özel günlerde 
     <barcode>0111858005724</barcode>
     <eklenme_tarihi>2025-08-07 15:50:35</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:50:35</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>7</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -78445,7 +78221,7 @@ Günlük kullanıma uygun tasarımıyla Utterly Good imzalı bu Y model kolye, h
     <barcode>4945590973869</barcode>
     <eklenme_tarihi>2025-08-07 15:51:19</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:51:19</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>10</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -78537,7 +78313,7 @@ Ezme zincir detayı sayesinde Y formunda akıcı bir duruş sergileyen bu tasar�
     <barcode>9065203689224</barcode>
     <eklenme_tarihi>2025-08-07 15:51:26</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:51:26</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>7</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -78627,7 +78403,7 @@ Ezme zincir detayı sayesinde Y formunda akıcı bir duruş sergileyen bu tasar�
     <barcode>8946858204257</barcode>
     <eklenme_tarihi>2025-08-07 15:51:36</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:51:36</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>16</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -78941,7 +78717,7 @@ Gümüş rengin sadeliği sayesinde günlük kombinlerinizde rahatlıkla kullana
     <barcode>7283243972478</barcode>
     <eklenme_tarihi>2025-08-09 11:11:17</eklenme_tarihi>
     <siralam_tarihi>2025-08-09 11:11:17</siralam_tarihi>
-    <miktar>2</miktar>
+    <miktar>0</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -80064,7 +79840,7 @@ Zarif ve dikkat çekici duruşuyla bu kolye, kombinlerinizin vazgeçilmezi olmay
     <barcode>4684064494829</barcode>
     <eklenme_tarihi>2025-08-14 14:06:44</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 13:38:32</siralam_tarihi>
-    <miktar>29</miktar>
+    <miktar>28</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -80252,7 +80028,7 @@ Pirinç malzemesi sayesinde hafif yapısıyla kulaklarda rahatsızlık yaratmaya
     <barcode>8223697224548</barcode>
     <eklenme_tarihi>2025-08-14 14:19:09</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 13:39:11</siralam_tarihi>
-    <miktar>31</miktar>
+    <miktar>30</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -81223,7 +80999,7 @@ Utterly Good imzalı bu model, kombinlerinize hem anlam hem estetik ekleyerek he
     <barcode>0442883767623</barcode>
     <eklenme_tarihi>2025-08-27 10:39:26</eklenme_tarihi>
     <siralam_tarihi>2026-04-13 14:39:51</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>9</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -82296,7 +82072,7 @@ Utterly Good imzalı bu bileklik, hem günlük kombinlerinizde hem özel davetle
     <barcode>4781089181557</barcode>
     <eklenme_tarihi>2025-08-30 08:51:13</eklenme_tarihi>
     <siralam_tarihi>2025-08-30 08:51:13</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>0</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -82784,7 +82560,7 @@ Sade çizgileriyle her kombine uyum sağlayan bu bileklik, sevdiklerinize hediye
     <barcode>3965245616782</barcode>
     <eklenme_tarihi>2025-08-30 08:54:29</eklenme_tarihi>
     <siralam_tarihi>2025-08-30 08:54:29</siralam_tarihi>
-    <miktar>2</miktar>
+    <miktar>1</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -83143,7 +82919,7 @@ Sade kıyafetlerden özel davetlere kadar her ortamda rahatlıkla kullanabilece�
     <barcode>2388491877768</barcode>
     <eklenme_tarihi>2025-09-10 17:01:57</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:09:05</siralam_tarihi>
-    <miktar>34</miktar>
+    <miktar>33</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -83173,7 +82949,7 @@ Feminen çizgisi sayesinde tek başına takıldığında bile fark edilir bir ş
     <barcode>0496541483967</barcode>
     <eklenme_tarihi>2025-09-10 17:02:01</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:09:04</siralam_tarihi>
-    <miktar>60</miktar>
+    <miktar>59</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -83335,7 +83111,7 @@ Standart bedeniyle her kulağa rahatça oturan bu set, altın tonlarıyla cildin
     <barcode>4147815258755</barcode>
     <eklenme_tarihi>2025-09-12 15:43:03</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:32:04</siralam_tarihi>
-    <miktar>24</miktar>
+    <miktar>22</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -83366,7 +83142,7 @@ Sade kombinlerden şık gece kıyafetlerine kadar her stile uyum sağlayan bu ke
     <barcode>5642020711785</barcode>
     <eklenme_tarihi>2025-09-12 15:43:18</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:32:05</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>10</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -83420,7 +83196,7 @@ Sade kombinlerden şık gece kıyafetlerine kadar her stile uyum sağlayan bu ke
     <barcode>7328371422058</barcode>
     <eklenme_tarihi>2025-09-16 13:01:34</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 13:38:33</siralam_tarihi>
-    <miktar>31</miktar>
+    <miktar>30</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -83451,7 +83227,7 @@ Sade kombinlerden şık gece kıyafetlerine kadar her stile uyum sağlayan bu ke
     <barcode>1089875920797</barcode>
     <eklenme_tarihi>2025-09-16 13:06:19</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:32:15</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>13</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -85467,7 +85243,7 @@ Utterly Good imzalı bu bileklik, sade ama göz alıcı duruşuyla hem kendinize
     <barcode>0738299645939</barcode>
     <eklenme_tarihi>2025-09-16 13:21:29</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:09:04</siralam_tarihi>
-    <miktar>49</miktar>
+    <miktar>48</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -85608,7 +85384,7 @@ Sade çizgileriyle klasik bir duruş sergilerken, dört yapraklı yonca figürü
     <barcode>9405514876812</barcode>
     <eklenme_tarihi>2025-09-16 13:22:06</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:05:10</siralam_tarihi>
-    <miktar>31</miktar>
+    <miktar>27</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -85637,7 +85413,7 @@ Sade çizgileriyle klasik bir duruş sergilerken, dört yapraklı yonca figürü
     <barcode>9926236222874</barcode>
     <eklenme_tarihi>2025-09-16 13:22:12</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:05:09</siralam_tarihi>
-    <miktar>49</miktar>
+    <miktar>48</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -85664,7 +85440,7 @@ Sade çizgileriyle klasik bir duruş sergilerken, dört yapraklı yonca figürü
     <barcode>5968250515468</barcode>
     <eklenme_tarihi>2025-09-16 13:22:17</eklenme_tarihi>
     <siralam_tarihi>2025-09-16 13:22:17</siralam_tarihi>
-    <miktar>57</miktar>
+    <miktar>56</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -85691,7 +85467,7 @@ Sade çizgileriyle klasik bir duruş sergilerken, dört yapraklı yonca figürü
     <barcode>7792035892936</barcode>
     <eklenme_tarihi>2025-09-16 13:22:27</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:02:49</siralam_tarihi>
-    <miktar>45</miktar>
+    <miktar>38</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -85720,7 +85496,7 @@ Sade çizgileriyle klasik bir duruş sergilerken, dört yapraklı yonca figürü
     <barcode>0175547899506</barcode>
     <eklenme_tarihi>2025-09-16 13:22:30</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:02:48</siralam_tarihi>
-    <miktar>52</miktar>
+    <miktar>48</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -85747,7 +85523,7 @@ Sade çizgileriyle klasik bir duruş sergilerken, dört yapraklı yonca figürü
     <barcode>3933154618647</barcode>
     <eklenme_tarihi>2025-09-16 13:22:32</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:02:47</siralam_tarihi>
-    <miktar>39</miktar>
+    <miktar>34</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -85776,7 +85552,7 @@ Sade çizgileriyle klasik bir duruş sergilerken, dört yapraklı yonca figürü
     <barcode>6632948143422</barcode>
     <eklenme_tarihi>2025-09-16 13:22:34</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:02:46</siralam_tarihi>
-    <miktar>50</miktar>
+    <miktar>47</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -85803,7 +85579,7 @@ Sade çizgileriyle klasik bir duruş sergilerken, dört yapraklı yonca figürü
     <barcode>6592671339366</barcode>
     <eklenme_tarihi>2025-09-16 13:22:39</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:02:45</siralam_tarihi>
-    <miktar>50</miktar>
+    <miktar>49</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -85830,7 +85606,7 @@ Sade çizgileriyle klasik bir duruş sergilerken, dört yapraklı yonca figürü
     <barcode>7354171292003</barcode>
     <eklenme_tarihi>2025-09-16 13:22:42</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:02:44</siralam_tarihi>
-    <miktar>50</miktar>
+    <miktar>49</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -86612,7 +86388,7 @@ Minimal tasarımı sayesinde günlük kombinlerden abiye şıklığına, spor st
     <barcode>5952165385797</barcode>
     <eklenme_tarihi>2025-09-22 14:11:32</eklenme_tarihi>
     <siralam_tarihi>2025-09-22 14:11:32</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>12</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -86640,7 +86416,7 @@ Minimal tasarımı sayesinde günlük kombinlerden abiye şıklığına, spor st
     <barcode>1634000747178</barcode>
     <eklenme_tarihi>2025-09-22 14:11:34</eklenme_tarihi>
     <siralam_tarihi>2025-09-22 14:11:34</siralam_tarihi>
-    <miktar>29</miktar>
+    <miktar>28</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -86860,7 +86636,7 @@ Utterly Good imzasıyla tasarlanan bu model, klasik ve spor tarzları bir araya 
     <barcode>2251632947296</barcode>
     <eklenme_tarihi>2025-09-22 14:11:56</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:31:19</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>26</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -86919,7 +86695,7 @@ Sade çizgileriyle klasik bir duruş sergileyen Pirinç Gümüş Renk Zirkon Ta�
     <barcode>3942397796791</barcode>
     <eklenme_tarihi>2025-09-22 14:11:58</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:31:19</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>31</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -87446,7 +87222,7 @@ Günlük kombinlerden abiye davetlere, spor tarzdan klasik şıklığa kadar her
     <barcode>7778497165382</barcode>
     <eklenme_tarihi>2025-09-22 14:13:18</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:31:32</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>11</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -90433,7 +90209,7 @@ Günlük kombinlerden abiye davetlere, spor şıklıktan klasik zarafete kadar h
     <barcode>8299456267460</barcode>
     <eklenme_tarihi>2025-10-06 15:26:49</eklenme_tarihi>
     <siralam_tarihi>2025-10-06 15:26:49</siralam_tarihi>
-    <miktar>34</miktar>
+    <miktar>33</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -91139,7 +90915,7 @@ Klasik ve spor tarzları bir arada barındıran Yusufçuk Charmlı Bileklik, bil
     <barcode>0244004711375</barcode>
     <eklenme_tarihi>2025-10-10 10:22:43</eklenme_tarihi>
     <siralam_tarihi>2026-05-07 14:24:46</siralam_tarihi>
-    <miktar>39</miktar>
+    <miktar>38</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -94041,7 +93817,7 @@ Klasik çizgileri sade ama etkileyici bir tasarımla buluşturan bu kolye, spor 
     <barcode>4165481759093</barcode>
     <eklenme_tarihi>2025-11-03 12:37:07</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:30:35</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>2</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -94649,7 +94425,7 @@ Gümüş renk çelik yapısıyla hem günlük kombinlerde hem de abiye şıklı�
     <barcode>8370759071432</barcode>
     <eklenme_tarihi>2025-11-11 09:26:59</eklenme_tarihi>
     <siralam_tarihi>2025-11-11 09:26:59</siralam_tarihi>
-    <miktar>54</miktar>
+    <miktar>51</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -97281,7 +97057,7 @@ Standart bekliyle hem günlük hem özel davetlerde rahatlıkla takılabilen bu 
     <barcode>7014839145439</barcode>
     <eklenme_tarihi>2025-11-22 12:04:11</eklenme_tarihi>
     <siralam_tarihi>2025-11-22 12:04:11</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>13</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -97317,7 +97093,7 @@ Standart bekliyle hem günlük hem özel davetlerde rahatlıkla takılabilen bu 
     <barcode>5825067040883</barcode>
     <eklenme_tarihi>2025-11-22 12:04:16</eklenme_tarihi>
     <siralam_tarihi>2025-11-22 12:04:16</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>13</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -102802,7 +102578,7 @@ Günlük kombinlerden spor tarzınıza, abiye davetlerden klasik şıklığa kad
     <barcode>5769297607129</barcode>
     <eklenme_tarihi>2025-12-04 11:16:23</eklenme_tarihi>
     <siralam_tarihi>2026-04-09 13:02:51</siralam_tarihi>
-    <miktar>208</miktar>
+    <miktar>207</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -102833,7 +102609,7 @@ Zincir detayı ve taşların düzenli dizilimiyle şıklığını her harekette 
     <barcode>7684890496162</barcode>
     <eklenme_tarihi>2025-12-04 11:16:27</eklenme_tarihi>
     <siralam_tarihi>2026-04-09 13:02:50</siralam_tarihi>
-    <miktar>125</miktar>
+    <miktar>124</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -104828,7 +104604,7 @@ Utterly Good imzalı bu tasarım, klasik çizgisiyle spor ya da özel davetlerde
     <barcode>5035103758034</barcode>
     <eklenme_tarihi>2025-12-27 08:52:52</eklenme_tarihi>
     <siralam_tarihi>2026-06-13 12:13:11</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>26</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -104884,7 +104660,7 @@ Gümüş rengin soğuk tonu, her kombine kolayca uyum sağlarken; setin çift mo
     <barcode>6599504486105</barcode>
     <eklenme_tarihi>2025-12-27 08:53:02</eklenme_tarihi>
     <siralam_tarihi>2026-06-20 15:10:39</siralam_tarihi>
-    <miktar>40</miktar>
+    <miktar>38</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -104940,7 +104716,7 @@ Halka formunun akışkan çizgisi zirkon taşların pırıltısıyla buluşunca 
     <barcode>5203302039203</barcode>
     <eklenme_tarihi>2025-12-27 08:53:09</eklenme_tarihi>
     <siralam_tarihi>2026-07-01 09:51:03</siralam_tarihi>
-    <miktar>78</miktar>
+    <miktar>76</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -106713,7 +106489,7 @@ Günlük kombinlerden spor tarzlara, klasik şıklıktan özel davetlere kadar h
     <barcode>3997345677707</barcode>
     <eklenme_tarihi>2025-12-27 09:07:24</eklenme_tarihi>
     <siralam_tarihi>2026-04-13 14:38:45</siralam_tarihi>
-    <miktar>18</miktar>
+    <miktar>16</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -106982,7 +106758,7 @@ Spor bir tarzı klasik çizgilerle harmanlayan tasarımı sayesinde her ortama u
     <barcode>7930070643797</barcode>
     <eklenme_tarihi>2025-12-27 09:10:13</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 09:10:13</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>0</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -107104,7 +106880,7 @@ Günlük kombinlerden spor şıklığa, abiye davetlerden klasik stillere kadar 
     <barcode>9285039719029</barcode>
     <eklenme_tarihi>2025-12-27 09:10:21</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 09:10:21</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>11</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -107288,7 +107064,7 @@ Klasik ve spor tarzları harmanlayan bu bileklik, hem ofiste hem özel davetlerd
     <barcode>5858447777666</barcode>
     <eklenme_tarihi>2025-12-27 09:11:33</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 09:11:33</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>1</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -108282,7 +108058,7 @@ Utterly Good imzalı bu bileklik; günlük kombinlerden spor stile, klasik şık
     <barcode>2395387332614</barcode>
     <eklenme_tarihi>2026-01-14 12:41:11</eklenme_tarihi>
     <siralam_tarihi>2026-03-28 06:19:23</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>5</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -108896,7 +108672,7 @@ Deniz temalı bu özel tasarım, dolaplarınıza farklı bir dokunuş katmak ist
     <barcode>3488075250082</barcode>
     <eklenme_tarihi>2026-01-23 14:24:55</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:24:55</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>3</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -109162,7 +108938,7 @@ Altın kaplama detayları sayesinde günlük kullanımdan spor kombinlere, klasi
     <barcode>6622865718810</barcode>
     <eklenme_tarihi>2026-01-23 14:25:00</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:25:00</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>27</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -109230,7 +109006,7 @@ Sade ama dikkat çeken tasarımıyla hem spor hem klasik görünümlerde rahatl�
     <barcode>1294804958066</barcode>
     <eklenme_tarihi>2026-01-23 14:25:00</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:25:00</siralam_tarihi>
-    <miktar>60</miktar>
+    <miktar>59</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -109405,7 +109181,7 @@ Gümüş rengiyle her kıyafetle uyum sağlayan bu kolye, ofis ş
     <barcode>9754485820370</barcode>
     <eklenme_tarihi>2026-01-23 14:25:08</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 16:27:24</siralam_tarihi>
-    <miktar>29</miktar>
+    <miktar>26</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -112590,7 +112366,7 @@ Günlük kombinlerden spor şıklığa, klasik zarafetten abiye görünümlere k
     <barcode>1161044258976</barcode>
     <eklenme_tarihi>2026-02-03 12:52:08</eklenme_tarihi>
     <siralam_tarihi>2026-02-03 12:52:08</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>5</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -113313,7 +113089,7 @@ Klasik çizgisinden ödün vermeden spor kombinlerle de uyum sağlayan bu kolye,
     <barcode>8203701896831</barcode>
     <eklenme_tarihi>2026-02-03 12:52:56</eklenme_tarihi>
     <siralam_tarihi>2026-02-03 12:52:56</siralam_tarihi>
-    <miktar>24</miktar>
+    <miktar>23</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -113439,7 +113215,7 @@ Klasik çizgisiyle günlük kombinlerden abiye şıklığına kadar her ana uyum
     <barcode>3069078409020</barcode>
     <eklenme_tarihi>2026-02-03 12:53:05</eklenme_tarihi>
     <siralam_tarihi>2026-02-03 12:53:05</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>13</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -114244,7 +114020,7 @@ Günlük kombinlerden spor şıklığa, abiye davetlerden özel günlere kadar h
     <barcode>3125192980224</barcode>
     <eklenme_tarihi>2026-02-04 11:00:37</eklenme_tarihi>
     <siralam_tarihi>2026-02-04 11:00:37</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>25</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -114300,7 +114076,7 @@ Günlük kombinlerden spor şıklığa, abiye davetlerden özel günlere kadar h
     <barcode>3996328802686</barcode>
     <eklenme_tarihi>2026-02-11 14:46:17</eklenme_tarihi>
     <siralam_tarihi>2026-03-10 09:30:02</siralam_tarihi>
-    <miktar>694</miktar>
+    <miktar>693</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -116676,69 +116452,6 @@ Günlük kombinlerden spor tarzlara, klasik şıklıktan abiye davetlere kadar h
 - Malzeme: Pirinç</aciklama>
   <satis_fiyati>519.9</satis_fiyati></Urun>
   <Urun>
-    <adi>Utterly Good Kare Tek Taş Zirkon Yüzük Gümüş Renk Kadın Yüzüğü</adi>
-    <stok_kodu>BYK3969</stok_kodu>
-    <product_id />
-    <id>698dac778ce195e5380ffafa</id>
-    <barcode>5455965006690</barcode>
-    <eklenme_tarihi>2026-02-12 11:33:27</eklenme_tarihi>
-    <siralam_tarihi>2026-02-12 11:33:27</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Bayan Yüzük ve Kombinler</kategori>
-    <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1770904481_BYK3969.jpg</resim1>
-    </resim>
-    <fiyat>
-      <son_kullanici>269.9</son_kullanici>
-      <bayi_fiyati>89.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Utterly Good</marka>
-    <filtreler>
-      <filtre>
-        <name>Taş Cinsi</name>
-        <value>Zirkon Taş</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Gümüş Kaplama</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Pirinç</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Spor</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Klasik</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Abiye</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Gümüş</value>
-      </filtre>
-    </filtreler>
-    <aciklama>Kare kesim tek taş zirkonun zarif ışıltısını gümüş rengin sadeliğiyle buluşturan bu Utterly Good yüzük, elinizde şık ve dikkat çekici bir detay oluşturuyor. Pirinç alt yapı üzerine gümüş kaplama ile hazırlanan tasarım, hem günlük kombinlerde hem de abiye şıklığında rahatlıkla kullanılabiliyor.
-
-Klasik ve spor tarzları harmanlayan bu kare tek taş model yüzük, sade duruşuyla her stile kolayca uyum sağlıyor. Gardırobunuzdaki eksik parçayı tamamlamak isteyenler için pratik ve şık bir seçenek sunuyor.
-
-Ürün Bilgileri:
-- Beden: Ayarlanabilir
-- Malzeme: Pirinç</aciklama>
-  <satis_fiyati>519.9</satis_fiyati></Urun>
-  <Urun>
     <adi>Utterly Good Halley Model Kadın Yüzük Gümüş Kaplama Zirkon Taşlı</adi>
     <stok_kodu>BYK3970</stok_kodu>
     <product_id />
@@ -119069,7 +118782,7 @@ Günlük kombinlerden abiye davetlere kadar her ana uyum sağlayan bu model, kla
     <barcode>3062863071044</barcode>
     <eklenme_tarihi>2026-02-12 11:39:10</eklenme_tarihi>
     <siralam_tarihi>2026-02-12 11:39:10</siralam_tarihi>
-    <miktar>18</miktar>
+    <miktar>16</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -119657,7 +119370,7 @@ Sade ama iddialı duruşuyla spor kıyafetlerden abiye şıklığına kadar her 
     <barcode>0325291952099</barcode>
     <eklenme_tarihi>2026-02-12 11:41:21</eklenme_tarihi>
     <siralam_tarihi>2026-02-12 11:41:21</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>4</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -119718,7 +119431,7 @@ Sade ama iddialı duruşuyla spor kıyafetlerden abiye şıklığına kadar her 
     <barcode>3835425612111</barcode>
     <eklenme_tarihi>2026-02-12 11:41:26</eklenme_tarihi>
     <siralam_tarihi>2026-02-12 11:41:26</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>1</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -122385,7 +122098,7 @@ Günlük kombinlerden abiye şıklığına kadar her ana kolayca uyum sağlayan 
     <barcode>0265729860056</barcode>
     <eklenme_tarihi>2026-02-12 11:55:45</eklenme_tarihi>
     <siralam_tarihi>2026-02-12 11:55:45</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>6</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -123959,7 +123672,7 @@ Günlük kombinlerden abiye davetlere kadar her tarza kolayca uyum sağlayan bu 
     <barcode>3478490236051</barcode>
     <eklenme_tarihi>2026-02-12 12:01:55</eklenme_tarihi>
     <siralam_tarihi>2026-02-12 12:01:55</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>5</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -126705,7 +126418,7 @@ Utterly Good imzasını taşıyan bu küpe seti, spor bir kıyafetten klasik bir
     <barcode>6386841852669</barcode>
     <eklenme_tarihi>2026-04-01 13:14:15</eklenme_tarihi>
     <siralam_tarihi>2026-04-01 13:14:15</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>23</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -130067,7 +129780,7 @@ Günlük kombinlerden spor şıklığa, klasik zarafetten abiye davetlere kadar 
     <barcode>9927042237700</barcode>
     <eklenme_tarihi>2026-04-14 12:28:54</eklenme_tarihi>
     <siralam_tarihi>2026-04-14 12:28:54</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>14</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -130185,7 +129898,7 @@ Bileğinizde katmanlı bir görünüm yaratan bu üçlü set, hem tek başına h
     <barcode>0826693556668</barcode>
     <eklenme_tarihi>2026-04-14 12:29:00</eklenme_tarihi>
     <siralam_tarihi>2026-04-14 12:29:00</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -130301,7 +130014,7 @@ Utterly Good imzalı bu bileklik; günlük kullanımdan spor tarzlara, abiye dav
     <barcode>7594262133192</barcode>
     <eklenme_tarihi>2026-04-14 12:29:10</eklenme_tarihi>
     <siralam_tarihi>2026-04-14 12:29:10</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>23</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -131720,7 +131433,7 @@ Utterly Good imzasıyla tasarlanan bu kolye, standart bedeniyle her boyun ölç�
     <barcode>0778857497259</barcode>
     <eklenme_tarihi>2026-04-14 12:39:21</eklenme_tarihi>
     <siralam_tarihi>2026-04-14 12:39:21</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>22</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -131970,7 +131683,7 @@ Spor ve klasik stilleri bir arada barındıran bu kolye, kombinlerinize hem sade
     <barcode>5227848694665</barcode>
     <eklenme_tarihi>2026-04-14 12:43:48</eklenme_tarihi>
     <siralam_tarihi>2026-04-14 12:43:48</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>16</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -132438,69 +132151,6 @@ Altın rengin sıcaklığını hasır motifin zarafetiyle buluşturan bu yüzük
     <aciklama>316L çelik altyapısı ve altın kaplama dokusuyla dikkat çeken bu burgu düğüm model kadın yüzük, Utterly Good imzasıyla parmağınızda zarif bir iz bırakıyor. İç içe geçen burgu detayı, günlük kombinlerden şık davetlere kadar her ana kolayca uyum sağlıyor.
 
 Gold rengin sıcaklığını klasik çizgilerle buluşturan tasarım, hem spor hem de abiye stillerle rahatça kullanılabiliyor. Sade ama etkileyici duruşuyla bu yüzük, takı koleksiyonunuzda hep elinizin altında olacak bir parça.
-
-Ürün Bilgileri:
-- Beden: Ayarlanabilir
-- Malzeme: 316L paslanmaz çelik</aciklama>
-  <satis_fiyati>419.9</satis_fiyati></Urun>
-  <Urun>
-    <adi>Utterly Good 316L Çelik Kadın Yüzük Gold Kaplama Zirkon Taşlı Vintage Model</adi>
-    <stok_kodu>BYK4164</stok_kodu>
-    <product_id />
-    <id>69de1b262dbb4814a30fdab2</id>
-    <barcode>7158450918093</barcode>
-    <eklenme_tarihi>2026-04-14 12:47:02</eklenme_tarihi>
-    <siralam_tarihi>2026-04-14 12:47:02</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Bayan Yüzük ve Kombinler</kategori>
-    <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1776227969_BYK4164.jpg</resim1>
-    </resim>
-    <fiyat>
-      <son_kullanici>169.9</son_kullanici>
-      <bayi_fiyati>69.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Utterly Good</marka>
-    <filtreler>
-      <filtre>
-        <name>Taş Cinsi</name>
-        <value>Zirkon Taş</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Altın Kaplama</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Çelik</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Spor</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Abiye</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Klasik</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Altın</value>
-      </filtre>
-    </filtreler>
-    <aciklama>Vintage çizgileriyle dikkat çeken bu Utterly Good imzalı yüzük, 316L çelik altyapısı ve gold kaplama yüzeyiyle şıklığını her ortamda hissettiriyor. Zirkon taşın zarif parıltısı, klasik tasarıma modern bir dokunuş katıyor.
-
-Günlük kombinlerden abiye davetlere kadar rahatlıkla kullanabileceğiniz bu parça, hem spor hem klasik tarzlarla uyum sağlıyor. 316L Çelik Gold Renk Zirkon Taşlı Vintage Model Kadın Yüzük, elinize zamansız bir zarafet kazandırmak isteyenler için ideal bir seçim.
 
 Ürün Bilgileri:
 - Beden: Ayarlanabilir
@@ -134092,7 +133742,7 @@ Klasik çizgileri sportif esintiyle buluşturan bu küpe, standart bedeniyle her
     <barcode>7255610148571</barcode>
     <eklenme_tarihi>2026-04-27 11:03:27</eklenme_tarihi>
     <siralam_tarihi>2026-04-27 11:03:27</siralam_tarihi>
-    <miktar>87</miktar>
+    <miktar>85</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -134155,7 +133805,7 @@ Klasik çizgileri sportif esintiyle buluşturan bu küpe, standart bedeniyle her
     <barcode>6380614653866</barcode>
     <eklenme_tarihi>2026-04-27 11:03:34</eklenme_tarihi>
     <siralam_tarihi>2026-04-27 11:03:34</siralam_tarihi>
-    <miktar>37</miktar>
+    <miktar>35</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -135350,7 +135000,7 @@ Günlük kombinlerden abiye şıklığına, spor stilden klasik zarafete kadar h
     <barcode>4217471355416</barcode>
     <eklenme_tarihi>2026-04-30 17:39:09</eklenme_tarihi>
     <siralam_tarihi>2026-04-30 17:39:09</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>6</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -135976,7 +135626,7 @@ Utterly Good imzalı bu Pirinç Gold Renk Zirkon Taşlı Yonca Model Su Yolu Kad
     <barcode>0653912469153</barcode>
     <eklenme_tarihi>2026-04-30 17:40:34</eklenme_tarihi>
     <siralam_tarihi>2026-04-30 17:40:34</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>19</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -136774,7 +136424,7 @@ Utterly Good imzasıyla sunulan bu kolye, gümüş kaplama detayı ve çelik yap
     <barcode>9640824573222</barcode>
     <eklenme_tarihi>2026-04-30 17:46:05</eklenme_tarihi>
     <siralam_tarihi>2026-04-30 17:46:05</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>12</miktar>
     <kategori>Erkek Kolye</kategori>
     <AnaKategori>Erkek|Erkek Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -136952,7 +136602,7 @@ Klasik duruşu ve spor tarza da uyum sağlayan yapısıyla çok yönlü bir seç
     <barcode>3947113102702</barcode>
     <eklenme_tarihi>2026-04-30 17:47:05</eklenme_tarihi>
     <siralam_tarihi>2026-04-30 17:47:05</siralam_tarihi>
-    <miktar>31</miktar>
+    <miktar>29</miktar>
     <kategori>Erkek Kolye</kategori>
     <AnaKategori>Erkek|Erkek Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -138129,7 +137779,7 @@ Günlük kombinlerden özel davetlere, spor şıklıktan abiye zarafete kadar he
     <barcode>4867252920168</barcode>
     <eklenme_tarihi>2026-05-08 11:24:49</eklenme_tarihi>
     <siralam_tarihi>2026-05-08 11:24:49</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>17</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -138255,7 +137905,7 @@ Utterly Good imzalı bu yüzük, günlük kombinlerden abiye davetlere, spor ş�
     <barcode>5496288977144</barcode>
     <eklenme_tarihi>2026-05-08 11:24:56</eklenme_tarihi>
     <siralam_tarihi>2026-05-08 11:24:56</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>21</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -138757,7 +138407,7 @@ Utterly Good imzasıyla sunulan bu model, günlük kombinlerden abiye şıklığ
     <barcode>8544123292444</barcode>
     <eklenme_tarihi>2026-05-08 11:25:25</eklenme_tarihi>
     <siralam_tarihi>2026-05-08 11:25:25</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>21</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -138818,7 +138468,7 @@ Utterly Good imzasıyla sunulan bu model, günlük kombinlerden abiye şıklığ
     <barcode>4925737103694</barcode>
     <eklenme_tarihi>2026-05-08 11:25:31</eklenme_tarihi>
     <siralam_tarihi>2026-05-08 11:25:31</siralam_tarihi>
-    <miktar>36</miktar>
+    <miktar>35</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -140702,7 +140352,7 @@ Plaj tatillerinden şehir yaşamına uzanan bu özgün tasarım, hem sade hem de
     <barcode>3092965012270</barcode>
     <eklenme_tarihi>2026-05-13 16:47:21</eklenme_tarihi>
     <siralam_tarihi>2026-05-13 16:47:21</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>0</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -140764,7 +140414,7 @@ Günlük kombinlerden spor şıklığa, klasik zarafetten abiye davetlere kadar 
     <barcode>5643245743940</barcode>
     <eklenme_tarihi>2026-05-13 16:47:25</eklenme_tarihi>
     <siralam_tarihi>2026-05-13 16:47:25</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>9</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -141786,7 +141436,7 @@ Hem sade hem iddialı bir görünüm isteyenler için ideal olan bu piercing, ko
     <barcode>3506171098244</barcode>
     <eklenme_tarihi>2026-05-13 16:50:39</eklenme_tarihi>
     <siralam_tarihi>2026-05-13 16:50:39</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>29</miktar>
     <kategori>Piercing</kategori>
     <AnaKategori>Diğer Ürünler|Piercing|</AnaKategori>
     <kdv>20</kdv>
@@ -142156,7 +141806,7 @@ Sade zincir tasarımı ve göz alıcı taş detayıyla göbek piercinginiz artı
     <barcode>9268859696169</barcode>
     <eklenme_tarihi>2026-05-13 16:50:59</eklenme_tarihi>
     <siralam_tarihi>2026-05-13 16:50:59</siralam_tarihi>
-    <miktar>31</miktar>
+    <miktar>30</miktar>
     <kategori>Piercing</kategori>
     <AnaKategori>Diğer Ürünler|Piercing|</AnaKategori>
     <kdv>20</kdv>
@@ -142770,7 +142420,7 @@ Utterly Good imzasını taşıyan bu tasarım, çelik materyalinin dayanıklı y
     <barcode>6600038478174</barcode>
     <eklenme_tarihi>2026-05-13 16:51:40</eklenme_tarihi>
     <siralam_tarihi>2026-05-13 16:51:40</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>32</miktar>
     <kategori>Piercing</kategori>
     <AnaKategori>Diğer Ürünler|Piercing|</AnaKategori>
     <kdv>20</kdv>
@@ -142816,7 +142466,7 @@ Günlük şıklığınızı tamamlamak isteyenler için ideal bir seçim olan bu
     <barcode>9252958620446</barcode>
     <eklenme_tarihi>2026-05-13 16:51:42</eklenme_tarihi>
     <siralam_tarihi>2026-05-13 16:51:42</siralam_tarihi>
-    <miktar>36</miktar>
+    <miktar>35</miktar>
     <kategori>Piercing</kategori>
     <AnaKategori>Diğer Ürünler|Piercing|</AnaKategori>
     <kdv>20</kdv>
@@ -143805,7 +143455,7 @@ Günlük hayattan özel davetlere kadar her ana uyum sağlayan bu Utterly Good i
     <barcode>8231756806154</barcode>
     <eklenme_tarihi>2026-06-08 14:03:31</eklenme_tarihi>
     <siralam_tarihi>2026-06-08 14:03:31</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>0</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -144115,7 +143765,7 @@ Günlük kombinlerden spor tarzlara, klasik şıklıktan abiye şıklığına ka
     <barcode>5890612038035</barcode>
     <eklenme_tarihi>2026-06-08 14:04:44</eklenme_tarihi>
     <siralam_tarihi>2026-06-08 14:04:44</siralam_tarihi>
-    <miktar>24</miktar>
+    <miktar>21</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -144314,7 +143964,7 @@ Utterly Good imzalı bu kolye, spor kıyafetlerden abiye şıklığına kadar ge
     <barcode>2593949245079</barcode>
     <eklenme_tarihi>2026-06-08 14:05:12</eklenme_tarihi>
     <siralam_tarihi>2026-06-08 14:05:12</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>30</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -144647,7 +144297,7 @@ Standart beden yapısıyla rahat kullanım sunan bu parça, hem sade hem dikkat 
     <barcode>0851288654122</barcode>
     <eklenme_tarihi>2026-06-08 14:05:52</eklenme_tarihi>
     <siralam_tarihi>2026-06-08 14:05:52</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>26</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -146333,7 +145983,7 @@ Günlük kombinlerden spor kıyafetlere, abiye şıklığından klasik tarzlara 
     <barcode>1638094060960</barcode>
     <eklenme_tarihi>2026-06-10 13:41:38</eklenme_tarihi>
     <siralam_tarihi>2026-08-04 14:28:39</siralam_tarihi>
-    <miktar>136</miktar>
+    <miktar>135</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -146391,7 +146041,7 @@ Günlük kombinlerden abiye davetlere, spor stilden klasik şıklığa kadar her
     <barcode>3210413493666</barcode>
     <eklenme_tarihi>2026-06-10 13:41:43</eklenme_tarihi>
     <siralam_tarihi>2026-08-04 14:28:42</siralam_tarihi>
-    <miktar>54</miktar>
+    <miktar>53</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -146449,7 +146099,7 @@ Küçük yonca formuyla minimal ama dikkat çeken bu bileklik, günlük kullanı
     <barcode>5911888458157</barcode>
     <eklenme_tarihi>2026-06-10 13:43:26</eklenme_tarihi>
     <siralam_tarihi>2026-06-10 13:43:26</siralam_tarihi>
-    <miktar>45</miktar>
+    <miktar>44</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -146625,7 +146275,7 @@ Utterly Good imzasını taşıyan bu küpe, minimal ama etkileyici duruşuyla st
     <barcode>8011745250560</barcode>
     <eklenme_tarihi>2026-06-10 13:44:53</eklenme_tarihi>
     <siralam_tarihi>2026-06-10 13:44:53</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>15</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -147230,7 +146880,7 @@ Sadeliği ve akıcı sarmal formuyla dikkat çeken bu kadın küpe, hem iş haya
     <barcode>0453072049840</barcode>
     <eklenme_tarihi>2026-06-10 13:56:49</eklenme_tarihi>
     <siralam_tarihi>2026-06-10 13:56:49</siralam_tarihi>
-    <miktar>55</miktar>
+    <miktar>54</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -147284,7 +146934,7 @@ Sadeliği ve akıcı sarmal formuyla dikkat çeken bu kadın küpe, hem iş haya
     <barcode>5671371151636</barcode>
     <eklenme_tarihi>2026-06-10 13:56:57</eklenme_tarihi>
     <siralam_tarihi>2026-06-10 13:56:57</siralam_tarihi>
-    <miktar>41</miktar>
+    <miktar>40</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -150202,7 +149852,7 @@ Günlük kombinlerden abiye davetlere, spor şıklıktan klasik tarza kadar her 
     <barcode>7768241792018</barcode>
     <eklenme_tarihi>2026-06-17 17:16:13</eklenme_tarihi>
     <siralam_tarihi>2026-07-29 13:44:14</siralam_tarihi>
-    <miktar>71</miktar>
+    <miktar>70</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -152137,7 +151787,7 @@ Günlük kombinlerden spor tarza, abiye davetlerden klasik şıklığa kadar her
     <barcode>4251043665718</barcode>
     <eklenme_tarihi>2026-06-17 17:23:30</eklenme_tarihi>
     <siralam_tarihi>2026-06-17 17:23:30</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>22</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -152640,7 +152290,7 @@ Hem sportif hem klasik tarzları seven kadınlar için tasarlanan bu set, standa
     <barcode>2688629789797</barcode>
     <eklenme_tarihi>2026-06-17 17:30:25</eklenme_tarihi>
     <siralam_tarihi>2026-06-17 17:30:25</siralam_tarihi>
-    <miktar>49</miktar>
+    <miktar>48</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -153037,7 +152687,7 @@ Günlük kullanımdan spor tarza, klasik şıklıktan abiye davetlere kadar her 
     <barcode>7460840455928</barcode>
     <eklenme_tarihi>2026-06-24 10:53:12</eklenme_tarihi>
     <siralam_tarihi>2026-06-24 10:53:12</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>25</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -155088,7 +154738,7 @@ Klasik ve abiye stilleri seven kadınlar için de ideal bir seçenek sunan bu k�
     <barcode>2178984327784</barcode>
     <eklenme_tarihi>2026-07-07 15:07:54</eklenme_tarihi>
     <siralam_tarihi>2026-07-08 17:58:48</siralam_tarihi>
-    <miktar>2</miktar>
+    <miktar>1</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -155274,7 +154924,7 @@ Günlük kombinlerden abiye şıklığına, spor tarzdan klasik zarafete kadar h
     <barcode>4419676434532</barcode>
     <eklenme_tarihi>2026-07-07 15:12:59</eklenme_tarihi>
     <siralam_tarihi>2026-09-26 10:30:01</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>17</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -156910,7 +156560,7 @@ Zincir yapısıyla rahat bir kullanım sunan kolye, aslan sembolünün güçlü 
     <barcode>7142905795889</barcode>
     <eklenme_tarihi>2026-07-07 15:22:12</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 13:38:56</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>25</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -157926,7 +157576,7 @@ Klasik çizgileri sayesinde günlük kombinlerden abiye davetlere, spor tarzdan 
     <barcode>6722649813042</barcode>
     <eklenme_tarihi>2026-07-11 12:14:05</eklenme_tarihi>
     <siralam_tarihi>2026-07-11 12:14:05</siralam_tarihi>
-    <miktar>57</miktar>
+    <miktar>55</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -157988,7 +157638,7 @@ Klasik çizgileri sayesinde günlük kombinlerden abiye davetlere, spor tarzdan 
     <barcode>0361936270890</barcode>
     <eklenme_tarihi>2026-07-11 12:14:09</eklenme_tarihi>
     <siralam_tarihi>2026-07-11 12:14:09</siralam_tarihi>
-    <miktar>48</miktar>
+    <miktar>46</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -165991,7 +165641,7 @@ Klasik ve spor tarzları harmanlayan tasarımıyla her tarza uyum sağlayan bu b
     <barcode>7235063847696</barcode>
     <eklenme_tarihi>2026-07-23 11:48:10</eklenme_tarihi>
     <siralam_tarihi>2026-07-23 11:48:10</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>11</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -166057,7 +165707,7 @@ Klasik ve spor tarzları harmanlayan tasarımı, farklı kombinlerle rahatlıkla
     <barcode>2187836153310</barcode>
     <eklenme_tarihi>2026-07-23 11:48:15</eklenme_tarihi>
     <siralam_tarihi>2026-07-23 11:48:15</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>5</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -166123,7 +165773,7 @@ El bileğinizde şıklık ve anlam bir arada; sevdiklerinize hediye etmek ya da 
     <barcode>9161758833676</barcode>
     <eklenme_tarihi>2026-07-23 11:48:19</eklenme_tarihi>
     <siralam_tarihi>2026-07-23 11:48:19</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>14</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -167231,7 +166881,7 @@ Klasik ve spor stilleri harmanlayan tasarımıyla kombinlerinize özgün bir dok
     <barcode>5600994109373</barcode>
     <eklenme_tarihi>2026-07-24 08:27:12</eklenme_tarihi>
     <siralam_tarihi>2026-07-24 08:27:12</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>0</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -167390,7 +167040,7 @@ Klasik ve spor tarzları bir arada barındıran bu bileklik, hem sade hem de idd
     <barcode>3062273783599</barcode>
     <eklenme_tarihi>2026-07-24 08:27:48</eklenme_tarihi>
     <siralam_tarihi>2026-07-24 08:27:48</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>0</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -167449,72 +167099,6 @@ Klasik ve zarif tasarımı sayesinde spor kıyafetlerden abiye görünümlere ka
 - Malzeme: 316L paslanmaz çelik</aciklama>
   <satis_fiyati>449.9</satis_fiyati></Urun>
   <Urun>
-    <adi>Utterly Good Kelebek Taşlı Bileklik Gümüş Kaplama Beyaz Charmlı</adi>
-    <stok_kodu>BB8798</stok_kodu>
-    <product_id />
-    <id>6a6305ec2f66cf7373000c66</id>
-    <barcode>5741812689018</barcode>
-    <eklenme_tarihi>2026-07-24 08:27:56</eklenme_tarihi>
-    <siralam_tarihi>2026-07-24 08:27:56</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Bayan Bileklik</kategori>
-    <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/6a6305ec2f66cf7373000c66-1903d4a0-c480-493a-8a8e-bd852b169bb9.jpg</resim1>
-    </resim>
-    <fiyat>
-      <son_kullanici>199.9</son_kullanici>
-      <bayi_fiyati>79.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Utterly Good</marka>
-    <filtreler>
-      <filtre>
-        <name>Taş Cinsi</name>
-        <value>Zirkon Taş</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Gümüş Kaplama</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Çelik</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Spor</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Abiye</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Klasik</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Gümüş</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Beyaz</value>
-      </filtre>
-    </filtreler>
-    <aciklama>Zirkon taşlarla süslenen kelebek figürü ve beyaz charm detayıyla dikkat çeken bu bileklik, gümüş kaplama çelik yapısıyla hem şık hem dayanıklı bir kullanım sunuyor. Günlük kombinlerden abiye şıklığına kadar birçok tarza uyum sağlıyor.
-
-Zarif duruşuyla hem kendinize hem sevdiklerinize güzel bir hediye seçeneği olabilir. Klasik ve spor stilleri seven kadınlar için pratik, feminen bir aksesuar arayanlara uygun bir tercih.
-
-Ürün Bilgileri:
-- Malzeme: 316L paslanmaz çelik</aciklama>
-  <satis_fiyati>449.9</satis_fiyati></Urun>
-  <Urun>
     <adi>Utterly Good Şans Tavşanı Charmlı Bileklik Gümüş Kaplama Çelik Zirkon Taşlı</adi>
     <stok_kodu>BB8808</stok_kodu>
     <product_id />
@@ -167522,7 +167106,7 @@ Zarif duruşuyla hem kendinize hem sevdiklerinize güzel bir hediye seçeneği o
     <barcode>4818670167086</barcode>
     <eklenme_tarihi>2026-07-24 08:28:31</eklenme_tarihi>
     <siralam_tarihi>2026-07-24 08:28:31</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>0</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -167718,7 +167302,7 @@ Hem klasik hem spor tarzları tamamlayan bu bileklik, gümüş ve beyaz tonları
     <barcode>3104727315168</barcode>
     <eklenme_tarihi>2026-07-24 08:29:46</eklenme_tarihi>
     <siralam_tarihi>2026-07-24 08:29:46</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>16</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -168289,7 +167873,7 @@ Klasik ve spor görünümleri buluşturan tasarımı sayesinde standart bedeniyl
     <barcode>6688412456284</barcode>
     <eklenme_tarihi>2026-07-27 08:46:35</eklenme_tarihi>
     <siralam_tarihi>2026-07-27 08:46:35</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>0</miktar>
     <kategori>Erkek Bileklik</kategori>
     <AnaKategori>Erkek|Erkek Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -168395,7 +167979,7 @@ Klasik ve spor görünümleri buluşturan tasarımı sayesinde standart bedeniyl
     <barcode>3633584840181</barcode>
     <eklenme_tarihi>2026-07-27 08:49:00</eklenme_tarihi>
     <siralam_tarihi>2026-07-27 08:49:00</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>0</miktar>
     <kategori>Erkek Bileklik</kategori>
     <AnaKategori>Erkek|Erkek Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -168906,7 +168490,7 @@ Sade tasarımı sayesinde her stile kolayca eşlik eden bu bileklik, erkeklerin 
     <barcode>7039558472680</barcode>
     <eklenme_tarihi>2026-07-27 10:48:53</eklenme_tarihi>
     <siralam_tarihi>2026-07-27 10:48:53</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>3</miktar>
     <kategori>Erkek Bileklik</kategori>
     <AnaKategori>Erkek|Erkek Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -171989,7 +171573,7 @@ Hafif yapısı sayesinde rahatça kullanabileceğiniz bu model, spor ya da özel
     <barcode>7274760377327</barcode>
     <eklenme_tarihi>2026-08-03 15:38:00</eklenme_tarihi>
     <siralam_tarihi>2026-08-04 20:30:28</siralam_tarihi>
-    <miktar>46</miktar>
+    <miktar>43</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -172050,7 +171634,7 @@ Hafif yapısı sayesinde rahatça kullanabileceğiniz bu model, spor ya da özel
     <barcode>7899428857302</barcode>
     <eklenme_tarihi>2026-08-03 15:38:06</eklenme_tarihi>
     <siralam_tarihi>2026-08-04 20:30:29</siralam_tarihi>
-    <miktar>59</miktar>
+    <miktar>56</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -172772,7 +172356,7 @@ Her anınızda şıklığınızı tamamlayacak bu kolye, hafif yapısı ve göz 
     <barcode>0088361270188</barcode>
     <eklenme_tarihi>2026-08-03 15:39:42</eklenme_tarihi>
     <siralam_tarihi>2026-08-04 20:32:09</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>8</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -173264,7 +172848,7 @@ Standart bedeniyle rahat kullanım sağlayan bu kolye, klasik ve spor tarzları 
     <barcode>1117433463261</barcode>
     <eklenme_tarihi>2026-08-05 09:09:57</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:28:36</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>23</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -173799,7 +173383,7 @@ Klasik çizgisiyle zamansız bir duruş sergileyen bu yüzük, spor ve günlük 
     <barcode>6982611188176</barcode>
     <eklenme_tarihi>2026-08-05 09:56:17</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:28:47</siralam_tarihi>
-    <miktar>56</miktar>
+    <miktar>54</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -174423,7 +174007,7 @@ Günlük kombinlerden abiye şıklığına kadar geniş bir kullanım alanı sun
     <barcode>3009370084846</barcode>
     <eklenme_tarihi>2026-08-05 13:39:34</eklenme_tarihi>
     <siralam_tarihi>2026-08-05 13:39:34</siralam_tarihi>
-    <miktar>37</miktar>
+    <miktar>36</miktar>
     <kategori>Erkek Bileklik</kategori>
     <AnaKategori>Erkek|Erkek Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -175160,67 +174744,6 @@ Standart bedeniyle her kulağa uygun olan bu model, altın rengiyle şıklığı
 - Malzeme: 316L paslanmaz çelik</aciklama>
   <satis_fiyati>399.9</satis_fiyati></Urun>
   <Urun>
-    <adi>Utterly Good Çelik Halka Küpe Gold Kaplama Günlük Klasik Model</adi>
-    <stok_kodu>BKP12023</stok_kodu>
-    <product_id />
-    <id>6a7ed5e99c9ac6f5150bbe45</id>
-    <barcode>9163718330560</barcode>
-    <eklenme_tarihi>2026-08-14 10:46:33</eklenme_tarihi>
-    <siralam_tarihi>2026-08-14 10:46:33</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Küpe</kategori>
-    <AnaKategori>Kadın|Küpe|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/6a7ed5e99c9ac6f5150bbe45-987dc7ae-230c-4991-8565-519a0b26c5d1.jpg</resim1>
-      <resim2>https://app.ebijuteri.com/storage/files/uploads/pimg/6a7ed5e99c9ac6f5150bbe45-1cd9b45a-a05e-400a-9afe-7021e0d24816.jpg</resim2>
-    </resim>
-    <fiyat>
-      <son_kullanici>149.9</son_kullanici>
-      <bayi_fiyati>49.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Utterly Good</marka>
-    <filtreler>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Spor</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Abiye</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Klasik</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Altın Kaplama</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Çelik</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Altın</value>
-      </filtre>
-      <filtre>
-        <name>Beden</name>
-        <value>Standart</value>
-      </filtre>
-    </filtreler>
-    <aciklama>316L paslanmaz çelikten üretilen bu halka küpeler, altın kaplama yüzeyiyle şık ve dayanıklı bir görünüm sunar. Günlük kullanımdan abiye kombinlere kadar her tarza kolayca uyum sağlayan bu küpeler, cildi tahriş etmeyen yapısıyla uzun süre konforla taşınabilir.
-
-Ürün Bilgileri:
-- Malzeme: 316L paslanmaz çelik</aciklama>
-  <satis_fiyati>399.9</satis_fiyati></Urun>
-  <Urun>
     <adi>Utterly Good 316L Çelik Küpe Gümüş Renk Bohem Halka Model</adi>
     <stok_kodu>BKP12026</stok_kodu>
     <product_id />
@@ -175352,7 +174875,7 @@ Standart bedeniyle her kulağa uyum sağlayan bu küpe, klasik ve şık duruşuy
     <barcode>7159451881560</barcode>
     <eklenme_tarihi>2026-08-14 10:46:57</eklenme_tarihi>
     <siralam_tarihi>2026-08-14 10:46:57</siralam_tarihi>
-    <miktar>27</miktar>
+    <miktar>25</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -177823,7 +177346,7 @@ Standart beden yapısıyla rahat kullanım sağlayan tasarım, klasik ve spor st
     <barcode>8064557371206</barcode>
     <eklenme_tarihi>2026-08-17 11:34:01</eklenme_tarihi>
     <siralam_tarihi>2026-08-17 11:34:01</siralam_tarihi>
-    <miktar>32</miktar>
+    <miktar>31</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -179744,7 +179267,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>7739314029874</barcode>
     <eklenme_tarihi>2026-08-18 10:44:07</eklenme_tarihi>
     <siralam_tarihi>2026-08-18 10:44:07</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>10</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -187096,7 +186619,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>6836226620555</barcode>
     <eklenme_tarihi>2026-08-27 10:38:56</eklenme_tarihi>
     <siralam_tarihi>2026-08-27 10:38:56</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>14</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -187192,7 +186715,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>5032439339098</barcode>
     <eklenme_tarihi>2026-08-27 10:39:36</eklenme_tarihi>
     <siralam_tarihi>2026-08-27 10:39:36</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>0</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -187288,7 +186811,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>5355926525249</barcode>
     <eklenme_tarihi>2026-08-27 10:42:46</eklenme_tarihi>
     <siralam_tarihi>2026-08-27 10:42:46</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>6</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -187384,7 +186907,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>2513896752666</barcode>
     <eklenme_tarihi>2026-08-27 10:53:22</eklenme_tarihi>
     <siralam_tarihi>2026-08-27 10:53:22</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>2</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -187432,7 +186955,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>1585231842562</barcode>
     <eklenme_tarihi>2026-08-27 10:53:27</eklenme_tarihi>
     <siralam_tarihi>2026-08-27 10:53:27</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>8</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -187480,7 +187003,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>7243454272736</barcode>
     <eklenme_tarihi>2026-08-27 10:53:31</eklenme_tarihi>
     <siralam_tarihi>2026-08-27 10:53:31</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>7</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -187528,7 +187051,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>0257230403242</barcode>
     <eklenme_tarihi>2026-08-27 10:54:05</eklenme_tarihi>
     <siralam_tarihi>2026-08-27 10:54:05</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>18</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -187624,7 +187147,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>9640241672966</barcode>
     <eklenme_tarihi>2026-08-27 10:54:18</eklenme_tarihi>
     <siralam_tarihi>2026-08-27 10:54:18</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>28</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -187672,7 +187195,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>5791681215603</barcode>
     <eklenme_tarihi>2026-08-27 11:21:59</eklenme_tarihi>
     <siralam_tarihi>2026-08-27 11:21:59</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>3</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -187720,7 +187243,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>1749526425520</barcode>
     <eklenme_tarihi>2026-08-27 11:22:11</eklenme_tarihi>
     <siralam_tarihi>2026-08-27 11:22:11</siralam_tarihi>
-    <miktar>9</miktar>
+    <miktar>7</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -187761,54 +187284,6 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
 - Malzeme: Pirinç</aciklama>
   <satis_fiyati>449.9</satis_fiyati></Urun>
   <Urun>
-    <adi>Utterly Good Broş Zirkon Taşlı İnci Detaylı Gümüş Kaplama Pirinç</adi>
-    <stok_kodu>BR510</stok_kodu>
-    <product_id />
-    <id>6a9001ccb4fb3abb4d0bad95</id>
-    <barcode>0571097629257</barcode>
-    <eklenme_tarihi>2026-08-27 11:22:20</eklenme_tarihi>
-    <siralam_tarihi>2026-08-27 11:22:20</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Broş</kategori>
-    <AnaKategori>Kadın|Broş|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/6a9001ccb4fb3abb4d0bad95-6eb7f913-73b8-4cef-985c-6d35c0ad44a6.jpg</resim1>
-    </resim>
-    <fiyat>
-      <son_kullanici>199.9</son_kullanici>
-      <bayi_fiyati>74.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Utterly Good</marka>
-    <filtreler>
-      <filtre>
-        <name>Taş Cinsi</name>
-        <value>Zirkon Taş</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Gümüş Kaplama</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Pirinç</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Gümüş</value>
-      </filtre>
-      <filtre>
-        <name>Beden</name>
-        <value>Standart</value>
-      </filtre>
-    </filtreler>
-    <aciklama>Pirinç üzerine gümüş kaplama işçiliğiyle hazırlanan bu broş, zirkon taşların soğuk parlaklığını inci detaylarıyla yumuşatıyor. Ceket yakasına ya da şala iliştirildiğinde hem klasik hem modern bir dokunuş sunan şık bir aksesuar. Özel günlerde ve günlük kombinlerde zarif bir tamamlayıcı olarak öne çıkıyor.
-
-Ürün Bilgileri:
-- Malzeme: Pirinç</aciklama>
-  <satis_fiyati>449.9</satis_fiyati></Urun>
-  <Urun>
     <adi>Utterly Good Çiçek Broş Zirkon Taşlı Gümüş Kaplama Pirinç</adi>
     <stok_kodu>BR511</stok_kodu>
     <product_id />
@@ -187816,7 +187291,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>7326743303967</barcode>
     <eklenme_tarihi>2026-08-27 11:22:24</eklenme_tarihi>
     <siralam_tarihi>2026-08-27 11:22:24</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>5</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -187864,7 +187339,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>6067109667415</barcode>
     <eklenme_tarihi>2026-08-27 11:33:50</eklenme_tarihi>
     <siralam_tarihi>2026-08-27 11:33:50</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>6</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -187912,7 +187387,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>9322763360285</barcode>
     <eklenme_tarihi>2026-08-27 11:33:55</eklenme_tarihi>
     <siralam_tarihi>2026-08-27 11:33:55</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>9</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -187956,7 +187431,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>7818889835421</barcode>
     <eklenme_tarihi>2026-08-27 11:33:59</eklenme_tarihi>
     <siralam_tarihi>2026-08-27 11:33:59</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>14</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -188004,7 +187479,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>7044191288208</barcode>
     <eklenme_tarihi>2026-08-27 11:34:03</eklenme_tarihi>
     <siralam_tarihi>2026-08-27 11:34:03</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>11</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -188052,7 +187527,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>7290007147737</barcode>
     <eklenme_tarihi>2026-08-27 11:34:06</eklenme_tarihi>
     <siralam_tarihi>2026-08-27 11:34:06</siralam_tarihi>
-    <miktar>18</miktar>
+    <miktar>17</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -192601,7 +192076,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>7177020257417</barcode>
     <eklenme_tarihi>2026-08-31 13:17:34</eklenme_tarihi>
     <siralam_tarihi>2026-08-31 13:17:34</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>13</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -192667,7 +192142,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>5427794100764</barcode>
     <eklenme_tarihi>2026-08-31 13:17:39</eklenme_tarihi>
     <siralam_tarihi>2026-08-31 13:17:39</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>22</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -194479,7 +193954,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>3084572140415</barcode>
     <eklenme_tarihi>2026-09-03 12:46:01</eklenme_tarihi>
     <siralam_tarihi>2026-09-03 12:46:01</siralam_tarihi>
-    <miktar>102</miktar>
+    <miktar>99</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -195025,7 +194500,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>3478853659930</barcode>
     <eklenme_tarihi>2026-09-22 10:18:32</eklenme_tarihi>
     <siralam_tarihi>2026-09-22 10:18:32</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>29</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -195090,7 +194565,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>9072117313756</barcode>
     <eklenme_tarihi>2026-09-22 10:18:37</eklenme_tarihi>
     <siralam_tarihi>2026-09-22 10:18:37</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>11</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -195155,7 +194630,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>4076908020613</barcode>
     <eklenme_tarihi>2026-09-22 10:19:34</eklenme_tarihi>
     <siralam_tarihi>2026-09-22 10:19:34</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>2</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -195220,7 +194695,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>9101080525252</barcode>
     <eklenme_tarihi>2026-09-22 10:19:55</eklenme_tarihi>
     <siralam_tarihi>2026-09-22 10:19:55</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>24</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -195341,7 +194816,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>0679665415827</barcode>
     <eklenme_tarihi>2026-09-22 10:39:08</eklenme_tarihi>
     <siralam_tarihi>2026-09-22 10:39:08</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>19</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -195643,7 +195118,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>1719640982506</barcode>
     <eklenme_tarihi>2026-09-25 10:42:34</eklenme_tarihi>
     <siralam_tarihi>2026-09-25 10:42:34</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>23</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -195670,7 +195145,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>5936219740848</barcode>
     <eklenme_tarihi>2026-09-25 10:42:39</eklenme_tarihi>
     <siralam_tarihi>2026-09-25 10:42:39</siralam_tarihi>
-    <miktar>27</miktar>
+    <miktar>23</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -196075,7 +195550,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>8296541800670</barcode>
     <eklenme_tarihi>2026-09-26 13:53:31</eklenme_tarihi>
     <siralam_tarihi>2026-09-26 13:53:31</siralam_tarihi>
-    <miktar>104</miktar>
+    <miktar>103</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -196106,7 +195581,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>1459458457659</barcode>
     <eklenme_tarihi>2026-09-26 13:58:51</eklenme_tarihi>
     <siralam_tarihi>2026-09-26 13:58:51</siralam_tarihi>
-    <miktar>108</miktar>
+    <miktar>107</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -196137,7 +195612,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>3331366695072</barcode>
     <eklenme_tarihi>2026-09-28 10:41:53</eklenme_tarihi>
     <siralam_tarihi>2026-09-28 10:41:53</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>21</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -196261,7 +195736,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>7316556548464</barcode>
     <eklenme_tarihi>2026-09-28 10:42:07</eklenme_tarihi>
     <siralam_tarihi>2026-09-28 10:42:07</siralam_tarihi>
-    <miktar>35</miktar>
+    <miktar>34</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -196325,7 +195800,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>6769067591138</barcode>
     <eklenme_tarihi>2026-09-28 10:42:10</eklenme_tarihi>
     <siralam_tarihi>2026-09-28 10:42:10</siralam_tarihi>
-    <miktar>45</miktar>
+    <miktar>44</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -196455,7 +195930,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>4344483108034</barcode>
     <eklenme_tarihi>2026-09-28 10:43:19</eklenme_tarihi>
     <siralam_tarihi>2026-09-28 10:43:19</siralam_tarihi>
-    <miktar>39</miktar>
+    <miktar>38</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -196544,7 +196019,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>7687433198295</barcode>
     <eklenme_tarihi>2026-09-28 11:16:34</eklenme_tarihi>
     <siralam_tarihi>2026-09-28 11:16:34</siralam_tarihi>
-    <miktar>45</miktar>
+    <miktar>43</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -196611,7 +196086,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>7448640038992</barcode>
     <eklenme_tarihi>2026-10-07 09:40:17</eklenme_tarihi>
     <siralam_tarihi>2026-10-07 09:40:17</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>21</miktar>
     <kategori>Şahmeran</kategori>
     <AnaKategori>Kadın|Şahmeran|</AnaKategori>
     <kdv>20</kdv>
@@ -196963,7 +196438,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>5937594562452</barcode>
     <eklenme_tarihi>2026-10-07 10:12:21</eklenme_tarihi>
     <siralam_tarihi>2026-10-07 10:12:21</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>27</miktar>
     <kategori>Şahmeran</kategori>
     <AnaKategori>Kadın|Şahmeran|</AnaKategori>
     <kdv>20</kdv>
@@ -197075,7 +196550,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>0875550708474</barcode>
     <eklenme_tarihi>2026-10-07 10:12:53</eklenme_tarihi>
     <siralam_tarihi>2026-10-07 10:12:53</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>26</miktar>
     <kategori>Şahmeran</kategori>
     <AnaKategori>Kadın|Şahmeran|</AnaKategori>
     <kdv>20</kdv>
@@ -197195,7 +196670,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>8815956068989</barcode>
     <eklenme_tarihi>2026-10-07 10:13:57</eklenme_tarihi>
     <siralam_tarihi>2026-10-07 10:13:57</siralam_tarihi>
-    <miktar>42</miktar>
+    <miktar>41</miktar>
     <kategori>Şahmeran</kategori>
     <AnaKategori>Kadın|Şahmeran|</AnaKategori>
     <kdv>20</kdv>
@@ -198579,7 +198054,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>1468491122707</barcode>
     <eklenme_tarihi>2026-10-07 12:19:47</eklenme_tarihi>
     <siralam_tarihi>2026-10-07 12:19:47</siralam_tarihi>
-    <miktar>57</miktar>
+    <miktar>56</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -198928,7 +198403,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>1608978138948</barcode>
     <eklenme_tarihi>2026-10-07 13:51:00</eklenme_tarihi>
     <siralam_tarihi>2026-10-07 13:51:00</siralam_tarihi>
-    <miktar>51</miktar>
+    <miktar>50</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -199116,7 +198591,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>7860552629585</barcode>
     <eklenme_tarihi>2026-10-10 13:30:26</eklenme_tarihi>
     <siralam_tarihi>2026-10-10 13:30:26</siralam_tarihi>
-    <miktar>21</miktar>
+    <miktar>20</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -199177,7 +198652,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>6866230770267</barcode>
     <eklenme_tarihi>2026-10-10 13:30:35</eklenme_tarihi>
     <siralam_tarihi>2026-10-10 13:30:35</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>32</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -199238,7 +198713,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>6646072185609</barcode>
     <eklenme_tarihi>2026-10-10 13:30:51</eklenme_tarihi>
     <siralam_tarihi>2026-10-10 13:30:51</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>22</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -199299,7 +198774,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>6879008097336</barcode>
     <eklenme_tarihi>2026-10-10 13:30:56</eklenme_tarihi>
     <siralam_tarihi>2026-10-10 13:30:56</siralam_tarihi>
-    <miktar>35</miktar>
+    <miktar>34</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -199360,7 +198835,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>9429935010631</barcode>
     <eklenme_tarihi>2026-10-10 13:31:02</eklenme_tarihi>
     <siralam_tarihi>2026-10-10 13:31:02</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>22</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -199543,7 +199018,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>1222823017112</barcode>
     <eklenme_tarihi>2026-10-10 13:31:18</eklenme_tarihi>
     <siralam_tarihi>2026-10-10 13:31:18</siralam_tarihi>
-    <miktar>35</miktar>
+    <miktar>34</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -200024,7 +199499,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>3431085452359</barcode>
     <eklenme_tarihi>2026-10-14 11:35:39</eklenme_tarihi>
     <siralam_tarihi>2026-10-14 11:35:39</siralam_tarihi>
-    <miktar>24</miktar>
+    <miktar>21</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -200051,7 +199526,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>3485365497196</barcode>
     <eklenme_tarihi>2026-10-14 11:35:42</eklenme_tarihi>
     <siralam_tarihi>2026-10-14 11:35:42</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>21</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -200078,7 +199553,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>4856553030058</barcode>
     <eklenme_tarihi>2026-10-14 11:36:23</eklenme_tarihi>
     <siralam_tarihi>2026-10-14 11:36:23</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>21</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -200134,7 +199609,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>5698194703484</barcode>
     <eklenme_tarihi>2026-10-14 11:37:03</eklenme_tarihi>
     <siralam_tarihi>2026-10-14 11:37:03</siralam_tarihi>
-    <miktar>21</miktar>
+    <miktar>17</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -200161,7 +199636,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>0344557516219</barcode>
     <eklenme_tarihi>2026-10-14 11:37:06</eklenme_tarihi>
     <siralam_tarihi>2026-10-14 11:37:06</siralam_tarihi>
-    <miktar>24</miktar>
+    <miktar>23</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -200404,7 +199879,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>8395796205770</barcode>
     <eklenme_tarihi>2026-10-19 12:14:46</eklenme_tarihi>
     <siralam_tarihi>2026-10-19 12:14:46</siralam_tarihi>
-    <miktar>59</miktar>
+    <miktar>57</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -200611,7 +200086,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>3008050293134</barcode>
     <eklenme_tarihi>2026-10-19 12:26:26</eklenme_tarihi>
     <siralam_tarihi>2026-10-19 12:26:26</siralam_tarihi>
-    <miktar>36</miktar>
+    <miktar>26</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -200638,7 +200113,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>5815665290292</barcode>
     <eklenme_tarihi>2026-10-19 12:26:31</eklenme_tarihi>
     <siralam_tarihi>2026-10-19 12:26:31</siralam_tarihi>
-    <miktar>60</miktar>
+    <miktar>50</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -200694,7 +200169,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>4626992652308</barcode>
     <eklenme_tarihi>2026-10-19 14:22:43</eklenme_tarihi>
     <siralam_tarihi>2026-10-19 14:22:43</siralam_tarihi>
-    <miktar>57</miktar>
+    <miktar>53</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -200753,7 +200228,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>1693198531808</barcode>
     <eklenme_tarihi>2026-10-19 14:46:47</eklenme_tarihi>
     <siralam_tarihi>2026-10-19 14:46:47</siralam_tarihi>
-    <miktar>48</miktar>
+    <miktar>47</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -200781,7 +200256,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>1203602896180</barcode>
     <eklenme_tarihi>2026-10-19 15:21:07</eklenme_tarihi>
     <siralam_tarihi>2026-10-19 15:21:07</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>21</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -200837,7 +200312,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>4266458025873</barcode>
     <eklenme_tarihi>2026-10-19 15:35:25</eklenme_tarihi>
     <siralam_tarihi>2026-10-19 15:35:25</siralam_tarihi>
-    <miktar>34</miktar>
+    <miktar>33</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -200982,7 +200457,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>5527527237351</barcode>
     <eklenme_tarihi>2026-10-21 09:44:42</eklenme_tarihi>
     <siralam_tarihi>2026-10-21 09:44:42</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>19</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -201103,7 +200578,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>9862178321445</barcode>
     <eklenme_tarihi>2026-10-21 09:46:17</eklenme_tarihi>
     <siralam_tarihi>2026-10-21 09:46:17</siralam_tarihi>
-    <miktar>36</miktar>
+    <miktar>35</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -201164,7 +200639,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>7325740224183</barcode>
     <eklenme_tarihi>2026-10-21 09:46:30</eklenme_tarihi>
     <siralam_tarihi>2026-10-21 09:46:30</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>13</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -201345,7 +200820,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>6137427691482</barcode>
     <eklenme_tarihi>2026-10-21 09:48:08</eklenme_tarihi>
     <siralam_tarihi>2026-10-21 09:48:08</siralam_tarihi>
-    <miktar>36</miktar>
+    <miktar>33</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -201405,7 +200880,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>7994889234553</barcode>
     <eklenme_tarihi>2026-10-21 09:48:45</eklenme_tarihi>
     <siralam_tarihi>2026-10-21 09:48:45</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>25</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -201466,7 +200941,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>7286277767218</barcode>
     <eklenme_tarihi>2026-10-21 09:49:03</eklenme_tarihi>
     <siralam_tarihi>2026-10-21 09:49:03</siralam_tarihi>
-    <miktar>29</miktar>
+    <miktar>25</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -201530,7 +201005,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>7129981807118</barcode>
     <eklenme_tarihi>2026-10-21 09:49:09</eklenme_tarihi>
     <siralam_tarihi>2026-10-21 09:49:09</siralam_tarihi>
-    <miktar>24</miktar>
+    <miktar>23</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -201594,7 +201069,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>8093781913357</barcode>
     <eklenme_tarihi>2026-10-21 09:50:11</eklenme_tarihi>
     <siralam_tarihi>2026-10-21 09:50:11</siralam_tarihi>
-    <miktar>36</miktar>
+    <miktar>32</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -201654,7 +201129,7 @@ Klasik ve spor görünümlere de kolayca uyum sağlayan gold tonu, kombinleriniz
     <barcode>5480017954735</barcode>
     <eklenme_tarihi>2026-10-21 09:51:07</eklenme_tarihi>
     <siralam_tarihi>2026-10-21 09:51:07</siralam_tarihi>
-    <miktar>29</miktar>
+    <miktar>28</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
